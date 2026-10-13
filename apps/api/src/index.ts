@@ -24,6 +24,7 @@ import { buildAssessmentTraceability } from "./assessment-audit.js";
 import { readExecutionRun, reconcileStaleExecutionRun } from "./execution-run.js";
 import { resolvePublicPath, REPORTS_DIR } from "./paths.js";
 import path from "node:path";
+import { resolveListenPort } from "./listen-port.js";
 
 const app = express();
 app.use(cors());
@@ -310,7 +311,7 @@ app.get("/api/runs/history", async (_req, res) => {
   res.json({ targetedRuns: runs, executionRun: execRun });
 });
 
-const port = Number(process.env.API_PORT ?? 3001);
+const port = resolveListenPort();
 if (process.env.VITEST !== "true") {
   app.listen(port, () => {
     console.log(`VectorForge API listening on http://localhost:${port}`);
