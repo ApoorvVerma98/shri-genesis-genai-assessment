@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.env
+.env.local
+*.log
+.DS_Store
+coverage/
+.vite/
+reports/backups/
+reports/repair-backups/
+outputs-phase1-archive/
+
+# Generated and diagnostic artifacts
+outputs/staging/
+apps/web/tsconfig.tsbuildinfo

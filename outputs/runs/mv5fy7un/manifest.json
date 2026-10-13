@@ -1,0 +1,71 @@
+{
+  "collection": "targeted",
+  "batchRunId": "mv5fy7un",
+  "requested": 2,
+  "attempted": 2,
+  "generated": 2,
+  "validationPassed": 2,
+  "validationFailed": 0,
+  "failed": 0,
+  "aiGenerated": 2,
+  "fallbackGenerated": 0,
+  "aiAttempted": 2,
+  "aiFailedThenFallback": 0,
+  "batchConfig": {
+    "seed": 881,
+    "segments": [
+      {
+        "category": "marketing",
+        "layoutFamily": "comparison",
+        "count": 2
+      }
+    ]
+  },
+  "startedAt": "2026-10-12T16:03:04.127Z",
+  "completedAt": "2026-10-12T16:03:08.198Z",
+  "totalDurationMs": 4070,
+  "entries": [
+    {
+      "id": "vf-mv5fy7un-0001",
+      "category": "marketing",
+      "topic": "Community-led growth loops",
+      "designType": "infographic",
+      "layoutFamily": "comparison",
+      "paletteId": "midnight-cyan",
+      "styleId": "tech-pulse",
+      "outputPath": "marketing/vf-mv5fy7un-0001.svg",
+      "contentMode": "ai",
+      "aiProvider": "openai-compatible",
+      "aiModel": "openai/gpt-oss-20b",
+      "aiAttempted": true,
+      "headline": "Unlock Sustainable Expansion with Community-Driven Growth Loops",
+      "generatedAt": "2026-10-12T16:03:06.250Z",
+      "durationMs": 2121,
+      "validationStatus": "passed",
+      "validationIssues": [],
+      "contentHash": "f644884a2d09eebe2dc076c20c4292b1caadb7d2b8d147b70a80007a95a84b1c",
+      "structureHash": "c8bd827cc3abb46b3af65d4a791cb45bd273f2cf131d44c495c3c8150029793c"
+    },
+    {
+      "id": "vf-mv5fy7un-0002",
+      "category": "marketing",
+      "topic": "Content repurposing across channels",
+      "designType": "infographic",
+      "layoutFamily": "comparison",
+      "paletteId": "forest-sage",
+      "styleId": "eco-growth",
+      "outputPath": "marketing/vf-mv5fy7un-0002.svg",
+      "contentMode": "ai",
+      "aiProvider": "openai-compatible",
+      "aiModel": "openai/gpt-oss-20b",
+      "aiAttempted": true,
+      "headline": "Turn One Piece of Content into a Multichannel Powerhouse",
+      "generatedAt": "2026-10-12T16:03:08.198Z",
+      "durationMs": 1948,
+      "validationStatus": "passed",
+      "validationIssues": [],
+      "contentHash": "9ffce7c837aa255be3d40502c1ea71441838f6d23b157765d681e1f21fcc1305",
+      "structureHash": "1c902b204d6af031e6abb7393b99dc50d44be9c03f808edd92507043f25be942"
+    }
+  ]
+}

@@ -1,0 +1,599 @@
+{
+  "generatedAt": "2026-10-13T06:24:06.612Z",
+  "pdfAvailable": true,
+  "pdfPath": "E:\\svg-generation assesment\\docs\\Gen AI_Creative Dev JD ShriGenesis.pdf",
+  "canonicalManifestPath": "E:\\svg-generation assesment\\outputs\\assessment\\manifest.json",
+  "reconciliation": {
+    "canonicalManifestPath": "E:\\svg-generation assesment\\outputs\\assessment\\manifest.json",
+    "canonicalOutputDir": "E:\\svg-generation assesment\\outputs",
+    "staleManifestPaths": [
+      {
+        "path": "E:\\svg-generation assesment\\apps\\api\\outputs\\assessment\\manifest.json",
+        "reason": "Stale copy from mistaken OUTPUT_DIR cwd; not used by API/CLI after path fix.",
+        "entryCount": 100
+      }
+    ],
+    "provenance": {
+      "ai": 0,
+      "fallback": 0,
+      "unknown": 100,
+      "hybrid": 0,
+      "failed": 0,
+      "missingSvg": 0
+    },
+    "orphanSvgCount": 39,
+    "orphanSvgSample": [
+      "business/vf-mv5ftd3o-0008.svg",
+      "business/vf-qa-mv5mnc5l-compare.svg",
+      "business/vf-qa-mv6apcvw-compare.svg",
+      "cybersecurity/vf-mv5ftd3o-0006.svg",
+      "education/vf-mv5fgbim-0002.svg",
+      "education/vf-mv5ftd3o-0002.svg",
+      "finance/vf-mv5fgbim-0003.svg",
+      "finance/vf-mv5ftd3o-0003.svg",
+      "finance/vf-mv5kvxg5-0002.svg",
+      "healthcare/vf-mv5ekfwi-0001.svg",
+      "healthcare/vf-mv5ekfwi-0002.svg",
+      "healthcare/vf-mv5ekfwi-0003.svg",
+      "healthcare/vf-mv5ekfwi-0004.svg",
+      "healthcare/vf-mv5ekfwi-0005.svg",
+      "healthcare/vf-mv5ekfwi-0006.svg"
+    ],
+    "duplicateHeadlineGroups": 0,
+    "nearDuplicatePairs": 0,
+    "exactDuplicateContentGroups": 0,
+    "structuralValidation": {
+      "passed": 100,
+      "failed": 0
+    },
+    "coverage": {
+      "collection": "assessment",
+      "totalEntries": 100,
+      "ai": 0,
+      "fallback": 0,
+      "unknown": 100,
+      "hybrid": 0,
+      "validationPassed": 100,
+      "validationFailed": 0,
+      "categories": [
+        {
+          "category": "business",
+          "planned": 9,
+          "actual": 9,
+          "ai": 0,
+          "fallback": 0,
+          "unknown": 9,
+          "validationFailed": 0,
+          "sampleIds": [
+            "vf-0004",
+            "vf-0005",
+            "vf-0006"
+          ]
+        },
+        {
+          "category": "cybersecurity",
+          "planned": 9,
+          "actual": 9,
+          "ai": 0,
+          "fallback": 0,
+          "unknown": 9,
+          "validationFailed": 0,
+          "sampleIds": [
+            "vf-0019",
+            "vf-0020",
+            "vf-0021"
+          ]
+        },
+        {
+          "category": "ecommerce",
+          "planned": 9,
+          "actual": 9,
+          "ai": 0,
+          "fallback": 0,
+          "unknown": 9,
+          "validationFailed": 0,
+          "sampleIds": [
+            "vf-0025",
+            "vf-0026",
+            "vf-0027"
+          ]
+        },
+        {
+          "category": "education",
+          "planned": 9,
+          "actual": 9,
+          "ai": 0,
+          "fallback": 0,
+          "unknown": 9,
+          "validationFailed": 0,
+          "sampleIds": [
+            "vf-0007",
+            "vf-0008",
+            "vf-0009"
+          ]
+        },
+        {
+          "category": "finance",
+          "planned": 9,
+          "actual": 9,
+          "ai": 0,
+          "fallback": 0,
+          "unknown": 9,
+          "validationFailed": 0,
+          "sampleIds": [
+            "vf-0013",
+            "vf-0014",
+            "vf-0015"
+          ]
+        },
+        {
+          "category": "healthcare",
+          "planned": 9,
+          "actual": 9,
+          "ai": 0,
+          "fallback": 0,
+          "unknown": 9,
+          "validationFailed": 0,
+          "sampleIds": [
+            "vf-0010",
+            "vf-0011",
+            "vf-0012"
+          ]
+        },
+        {
+          "category": "marketing",
+          "planned": 9,
+          "actual": 9,
+          "ai": 0,
+          "fallback": 0,
+          "unknown": 9,
+          "validationFailed": 0,
+          "sampleIds": [
+            "vf-0016",
+            "vf-0017",
+            "vf-0018"
+          ]
+        },
+        {
+          "category": "productivity",
+          "planned": 7,
+          "actual": 7,
+          "ai": 0,
+          "fallback": 0,
+          "unknown": 7,
+          "validationFailed": 0,
+          "sampleIds": [
+            "vf-0028",
+            "vf-0029",
+            "vf-0030"
+          ]
+        },
+        {
+          "category": "real-estate",
+          "planned": 6,
+          "actual": 6,
+          "ai": 0,
+          "fallback": 0,
+          "unknown": 6,
+          "validationFailed": 0,
+          "sampleIds": [
+            "vf-0034",
+            "vf-0035",
+            "vf-0036"
+          ]
+        },
+        {
+          "category": "social-awareness",
+          "planned": 6,
+          "actual": 6,
+          "ai": 0,
+          "fallback": 0,
+          "unknown": 6,
+          "validationFailed": 0,
+          "sampleIds": [
+            "vf-0031",
+            "vf-0032",
+            "vf-0033"
+          ]
+        },
+        {
+          "category": "sustainability",
+          "planned": 9,
+          "actual": 9,
+          "ai": 0,
+          "fallback": 0,
+          "unknown": 9,
+          "validationFailed": 0,
+          "sampleIds": [
+            "vf-0022",
+            "vf-0023",
+            "vf-0024"
+          ]
+        },
+        {
+          "category": "technology",
+          "planned": 9,
+          "actual": 9,
+          "ai": 0,
+          "fallback": 0,
+          "unknown": 9,
+          "validationFailed": 0,
+          "sampleIds": [
+            "vf-0001",
+            "vf-0002",
+            "vf-0003"
+          ]
+        }
+      ],
+      "layouts": [
+        {
+          "layoutFamily": "comparison",
+          "actual": 14,
+          "ai": 0,
+          "fallback": 0,
+          "unknown": 14,
+          "sampleIds": [
+            "vf-0005",
+            "vf-0009"
+          ]
+        },
+        {
+          "layoutFamily": "editorial-infographic",
+          "actual": 11,
+          "ai": 0,
+          "fallback": 0,
+          "unknown": 11,
+          "sampleIds": [
+            "vf-0002",
+            "vf-0016"
+          ]
+        },
+        {
+          "layoutFamily": "feature-grid",
+          "actual": 12,
+          "ai": 0,
+          "fallback": 0,
+          "unknown": 12,
+          "sampleIds": [
+            "vf-0006",
+            "vf-0012"
+          ]
+        },
+        {
+          "layoutFamily": "list-announcement",
+          "actual": 10,
+          "ai": 0,
+          "fallback": 0,
+          "unknown": 10,
+          "sampleIds": [
+            "vf-0008",
+            "vf-0011"
+          ]
+        },
+        {
+          "layoutFamily": "metrics-dashboard",
+          "actual": 13,
+          "ai": 0,
+          "fallback": 0,
+          "unknown": 13,
+          "sampleIds": [
+            "vf-0003",
+            "vf-0019"
+          ]
+        },
+        {
+          "layoutFamily": "promotional-banner",
+          "actual": 14,
+          "ai": 0,
+          "fallback": 0,
+          "unknown": 14,
+          "sampleIds": [
+            "vf-0001",
+            "vf-0017"
+          ]
+        },
+        {
+          "layoutFamily": "quote-banner",
+          "actual": 17,
+          "ai": 0,
+          "fallback": 0,
+          "unknown": 17,
+          "sampleIds": [
+            "vf-0007",
+            "vf-0013"
+          ]
+        },
+        {
+          "layoutFamily": "step-by-step",
+          "actual": 9,
+          "ai": 0,
+          "fallback": 0,
+          "unknown": 9,
+          "sampleIds": [
+            "vf-0004",
+            "vf-0029"
+          ]
+        }
+      ],
+      "generatedAt": "2026-10-13T06:24:06.610Z"
+    },
+    "executionRun": {
+      "status": "failed",
+      "runId": "18bfbb7a-78ba-48ad-81cd-88c796d50136",
+      "collection": "assessment",
+      "requested": 100,
+      "startedAt": "2026-10-12T16:31:43.380Z",
+      "message": "Batch did not complete; execution-report.json was not updated for this run.",
+      "completedAt": "2026-10-12T17:02:06.317Z",
+      "error": "Run interrupted or process exited (stale in_progress)"
+    },
+    "executionRunInterpretation": "Last batch failed (18bfbb7a-78ba-48ad-81cd-88c796d50136): Run interrupted or process exited (stale in_progress).",
+    "aggregateProvenanceNote": "Per-entry AI/fallback for regenerated vf-NNNN files is unknown (100-entry manifest was overwritten). Aggregate metrics from the 2026-10-12 phase-2 batch are preserved in reports/backups and reports/execution-report.json (6 AI / 94 fallback) but are not assigned to individual file IDs.",
+    "generatedAt": "2026-10-13T06:24:06.612Z"
+  },
+  "requirements": [
+    {
+      "id": "REQ-01",
+      "area": "§2 Core Assignment",
+      "title": "Approximately 100 SVG banners/infographics",
+      "meaning": "Build a script, application, or workflow that generates approximately 100 SVG banners or infographic designs across different topics and categories.",
+      "status": "verified",
+      "verification": "automatic",
+      "implementation": [
+        "apps/api/src/cli/batch.ts",
+        "outputs/assessment/manifest.json"
+      ],
+      "evidence": [
+        "100 canonical manifest entries"
+      ],
+      "remainingWork": ""
+    },
+    {
+      "id": "REQ-02",
+      "area": "§2 Core Assignment",
+      "title": "Programmatic generation pipeline",
+      "meaning": "The system should generate designs programmatically rather than requiring each banner to be manually created (topic, concept, copy, headings, supporting text, icons/illustrations, color, typography, layout, final SVG).",
+      "status": "implemented",
+      "verification": "automatic",
+      "implementation": [
+        "apps/api/src/pipeline.ts",
+        "packages/svg-engine",
+        "packages/ai"
+      ],
+      "evidence": [
+        "Architecture in reports/technical-report.md"
+      ],
+      "remainingWork": "Demonstrate end-to-end on canonical collection with resolved provenance."
+    },
+    {
+      "id": "REQ-03A",
+      "area": "§3A Topic and Content Generation",
+      "title": "Topic/category content generation",
+      "meaning": "Accept a topic, category, or content brief; generate suitable banner/infographic content with titles, subtitles, descriptions, key points; maintain hierarchy; avoid irrelevant/repetitive/grammatically incorrect content.",
+      "status": "partial",
+      "verification": "manual",
+      "implementation": [
+        "packages/ai",
+        "packages/shared/src/topics.ts"
+      ],
+      "evidence": [
+        "reports/ai-verify-batch.json",
+        "reports/controlled-targeted-tests.json"
+      ],
+      "remainingWork": "Canonical per-entry AI/fallback unknown — do not infer from historical aggregates."
+    },
+    {
+      "id": "REQ-03B",
+      "area": "§3B Template and Layout Generation",
+      "title": "Multiple design layouts",
+      "meaning": "Generate multiple design layouts (promotional, educational, statistics, step-by-step, quote, announcement, comparison, feature highlights, list-based, corporate/social); output must not be the same layout with only text/color changed.",
+      "status": "verified",
+      "verification": "automatic",
+      "implementation": [
+        "packages/svg-engine"
+      ],
+      "evidence": [
+        "reports/category-coverage.json"
+      ],
+      "remainingWork": ""
+    },
+    {
+      "id": "REQ-03C",
+      "area": "§3C SVG Generation",
+      "title": "Valid scalable SVG files",
+      "meaning": "Each output must be a valid, scalable SVG with dimensions/viewBox, text/typography, shapes/vectors, icons where relevant, spacing/alignment, contrast, responsive scaling where applicable, clean structure; viewable in browsers and vector tools.",
+      "status": "verified",
+      "verification": "automatic",
+      "implementation": [
+        "packages/validation",
+        "packages/svg-engine"
+      ],
+      "evidence": [
+        "npm run validate:outputs",
+        "reports/validation-summary.json"
+      ],
+      "remainingWork": ""
+    },
+    {
+      "id": "REQ-03D",
+      "area": "§3D Variety and Reusability",
+      "title": "Templates, styles, reusable components",
+      "meaning": "Demonstrate multiple templates, visual styles, content structures, compositions; reusable components; configurable colors, fonts, spacing, dimensions; extensible without major code changes.",
+      "status": "implemented",
+      "verification": "manual",
+      "implementation": [
+        "packages/shared/src/tokens.ts",
+        "packages/svg-engine"
+      ],
+      "evidence": [
+        "8 layout families",
+        "12 categories"
+      ],
+      "remainingWork": "Manual review of meaningful variation across 100 outputs."
+    },
+    {
+      "id": "REQ-04",
+      "area": "§4 Design Authenticity & SVG Quality",
+      "title": "Original, professional, clean SVG",
+      "meaning": "Designs must show intentional layouts, typography hierarchy, spacing, meaningful variation, relevant visuals; SVG must not contain prompt leakage, irrelevant metadata, hidden elements, scripts, broken defs; originality/IP rules apply.",
+      "status": "partial",
+      "verification": "manual",
+      "implementation": [
+        "packages/validation",
+        "reports/technical-report.md"
+      ],
+      "evidence": [
+        "reports/visual-qa-report.md"
+      ],
+      "remainingWork": "Manual originality and visual professional review pending."
+    },
+    {
+      "id": "REQ-05",
+      "area": "§5 Generative AI Expectations",
+      "title": "Meaningful AI in workflow",
+      "meaning": "Demonstrate meaningful AI use (content, template selection, layout instructions, color/typography suggestions, structured elements, validation/refinement, variations). Simply calling an AI API and saving unstructured responses as SVG is not sufficient.",
+      "status": "partial",
+      "verification": "manual",
+      "implementation": [
+        "packages/ai/src/openai-compatible.ts",
+        "packages/ai/src/factory.ts"
+      ],
+      "evidence": [
+        "reports/ai-verify-batch.json",
+        "reports/controlled-targeted-tests.json"
+      ],
+      "remainingWork": "Resolve canonical collection provenance via Phase E."
+    },
+    {
+      "id": "REQ-06",
+      "area": "§6 Output Requirements",
+      "title": "~100 SVG outputs with organization",
+      "meaning": "Generate approximately 100 SVG outputs across topics/categories with design variation, generated content, consistent naming, organized folders; programmatic generation allowed but not simple duplicates with minor text/color changes.",
+      "status": "verified",
+      "verification": "automatic",
+      "implementation": [
+        "outputs/<category>/vf-*.svg",
+        "outputs/assessment/manifest.json"
+      ],
+      "evidence": [
+        "reports/category-coverage.json"
+      ],
+      "remainingWork": ""
+    },
+    {
+      "id": "REQ-06B",
+      "area": "§6 Submission Volume",
+      "title": "Preview set and contact sheet",
+      "meaning": "Submit ~100 SVGs, representative preview set of 10–15 designs, contact sheet or preview document if possible, source code, short technical report.",
+      "status": "partial",
+      "verification": "manual",
+      "implementation": [
+        "outputs/previews/contact-sheet.html",
+        "npm run previews"
+      ],
+      "evidence": [
+        "outputs/previews/contact-sheet.html",
+        "reports/technical-report.md"
+      ],
+      "remainingWork": "Refresh contact sheet after Phase E; expand preview count to 10–15 if needed."
+    },
+    {
+      "id": "REQ-07",
+      "area": "§8 Validation",
+      "title": "Validation and quality checks",
+      "meaning": "Validate SVG syntax, viewBox, required elements, text overflow, overlap, contrast, fonts/assets, broken references, duplicates, content completeness/relevance; automated or manual review.",
+      "status": "verified",
+      "verification": "automatic",
+      "implementation": [
+        "packages/validation",
+        "npm run validate:outputs"
+      ],
+      "evidence": [
+        "reports/validation-summary.json"
+      ],
+      "remainingWork": "Overlap/text overflow checks are heuristic only."
+    },
+    {
+      "id": "REQ-08",
+      "area": "§9 Submission",
+      "title": "Source code and documentation",
+      "meaning": "Submit complete source, configuration, dependency files, env documentation, run instructions; do not include private API keys.",
+      "status": "verified",
+      "verification": "manual",
+      "implementation": [
+        "README.md",
+        ".env.example",
+        "package.json"
+      ],
+      "evidence": [
+        "Repository tree"
+      ],
+      "remainingWork": ""
+    },
+    {
+      "id": "REQ-09",
+      "area": "§9 Execution Report",
+      "title": "Execution metrics report",
+      "meaning": "Include total designs generated, successful outputs, failed/partial outputs, total time, average time per design, API/model usage, validation results, known limitations.",
+      "status": "partial",
+      "verification": "manual",
+      "implementation": [
+        "apps/api/src/cli/batch.ts",
+        "reports/execution-report.json"
+      ],
+      "evidence": [
+        "reports/execution-run.json"
+      ],
+      "remainingWork": "Regenerate after completed Phase E batch; stale interrupted runs must not imply success."
+    },
+    {
+      "id": "REQ-10",
+      "area": "§11 Evaluation",
+      "title": "Evaluation criteria coverage",
+      "meaning": "Review areas: Generative AI implementation, SVG generation, design quality, authenticity, variety, code quality, SVG cleanliness, originality, IP compliance, automation, validation, documentation.",
+      "status": "partial",
+      "verification": "manual",
+      "implementation": [
+        "reports/assessment-traceability.json"
+      ],
+      "evidence": [
+        "Assessment Studio UI"
+      ],
+      "remainingWork": "Map each evaluation area to evidence in Requirements & Evidence view."
+    },
+    {
+      "id": "REQ-11",
+      "area": "§12 Guidelines",
+      "title": "PDF source of truth",
+      "meaning": "Assessment specification: \"docs/Gen AI_Creative Dev JD ShriGenesis.pdf\" (Shri Genesis Software Solutions — Gen AI Developer Practical Technical Assessment).",
+      "status": "verified",
+      "verification": "manual",
+      "implementation": [
+        "docs/Gen AI_Creative Dev JD ShriGenesis.pdf"
+      ],
+      "evidence": [
+        "docs/Gen AI_Creative Dev JD ShriGenesis.pdf"
+      ],
+      "remainingWork": ""
+    },
+    {
+      "id": "REQ-12",
+      "area": "§12 Final Checklist",
+      "title": "Final candidate checklist items",
+      "meaning": "Checklist includes: automated SVG app, AI-based generation, multiple topics/categories, multiple templates, ~100 SVGs, representative preview, valid/scalable SVGs, typography/layout quality, metadata cleanup, originality, licensing, source/instructions, technical and execution reports, disclose AI tools.",
+      "status": "partial",
+      "verification": "manual",
+      "implementation": [
+        "reports/final-sign-off-checklist.md"
+      ],
+      "evidence": [
+        "reports/assessment-traceability.md"
+      ],
+      "remainingWork": "Complete checklist after Phase E and manual QA."
+    }
+  ],
+  "blockers": [
+    "Canonical collection has 100 entries with unknown AI/fallback provenance.",
+    "Stale manifest at apps/api/outputs/ — use E:\\svg-generation assesment\\outputs\\assessment\\manifest.json only."
+  ]
+}

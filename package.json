@@ -1,0 +1,37 @@
+{
+  "name": "vector-forge",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI-powered SVG banner and infographic generation engine",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "npm run build -w @vector-forge/shared && npm run build -w @vector-forge/validation && npm run build -w @vector-forge/svg-engine && npm run build -w @vector-forge/ai && npm run build -w @vector-forge/api && npm run build -w @vector-forge/web",
+    "dev": "concurrently \"npm run dev -w @vector-forge/api\" \"npm run dev -w @vector-forge/web\"",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "batch": "npm run batch -w @vector-forge/api",
+    "validate:outputs": "npm run validate:outputs -w @vector-forge/api",
+    "previews": "npm run previews -w @vector-forge/api",
+    "generate:one": "npm run generate:one -w @vector-forge/api",
+    "ai:probe": "npm run ai:probe -w @vector-forge/api",
+    "reconcile:assessment": "npm run reconcile:assessment -w @vector-forge/api",
+    "batch:smoke": "npm run batch:smoke -w @vector-forge/api",
+    "batch:verify": "npm run batch:verify -w @vector-forge/api",
+    "coverage:report": "npm run coverage:report -w @vector-forge/api",
+    "reports:sync": "npm run reports:sync -w @vector-forge/api",
+    "pre-regen-backup": "npm run pre-regen-backup -w @vector-forge/api",
+    "assessment:audit": "npm run assessment:audit -w @vector-forge/api",
+    "controlled:targeted": "npm run controlled:targeted -w @vector-forge/api",
+    "controlled:quality": "npm run controlled:quality -w @vector-forge/api",
+    "diagnostic:phase-e-truncation": "npm run diagnostic:phase-e-truncation -w @vector-forge/api",
+    "repair:phase-e-staging": "npm run repair:phase-e-staging -w @vector-forge/api"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2",
+    "typescript": "^5.7.3",
+    "vitest": "^3.0.5"
+  }
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Your First Home Journey: A Step-by-Step Guide">
+  <title>Your First Home Journey: A Step-by-Step Guide</title>
+  <desc>Explain the steps first-time buyers should take before purchasing a home.</desc>
+  
+    <rect width="100%" height="100%" fill="#0B1220" />
+    <text font-family="Georgia, Cambria, Times New Roman, serif" font-size="40" font-weight="700" fill="#F8FAFC" x="32" y="72"><tspan x="32" dy="0">Your First Home Journey: A Step-by-Step Guide</tspan></text>
+    <line x1="32" y1="119.2" x2="1168" y2="119.2" stroke="#334155" stroke-width="2" />
+    <g transform="translate(0, 143.2)">
+      
+          <rect x="32" y="0" width="275" height="430.8" rx="12" fill="#141C2F" stroke="#22D3EE" stroke-width="3" />
+          <circle cx="169.5" cy="40" r="24" fill="#22D3EE" />
+          <text x="169.5" y="48" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#0B1220">1</text>
+          <text x="48" y="92" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#F8FAFC">Assess Your Finances</text>
+          <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#94A3B8" x="48" y="124"><tspan x="48" dy="0">Review your savings,</tspan><tspan x="48" dy="23">credit score, and</tspan><tspan x="48" dy="23">monthly expenses to</tspan><tspan x="48" dy="23">understand how much you</tspan><tspan x="48" dy="23">can comfortably afford.</tspan></text>
+        
+          <rect x="319" y="0" width="275" height="430.8" rx="12" fill="#141C2F" stroke="#22D3EE" stroke-width="2" />
+          <circle cx="456.5" cy="40" r="24" fill="#22D3EE" />
+          <text x="456.5" y="48" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#0B1220">2</text>
+          <text x="335" y="92" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#F8FAFC">Get Pre‑Approved for a Mortgage</text>
+          <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#94A3B8" x="335" y="124"><tspan x="335" dy="0">Speak with a lender to</tspan><tspan x="335" dy="23">obtain a pre‑approval</tspan><tspan x="335" dy="23">letter, which shows</tspan><tspan x="335" dy="23">sellers you’re serious</tspan><tspan x="335" dy="23">and sets a realistic</tspan></text>
+        
+          <rect x="606" y="0" width="275" height="430.8" rx="12" fill="#141C2F" stroke="#22D3EE" stroke-width="2" />
+          <circle cx="743.5" cy="40" r="24" fill="#22D3EE" />
+          <text x="743.5" y="48" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#0B1220">3</text>
+          <text x="622" y="92" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#F8FAFC">Define Your Must‑Haves</text>
+          <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#94A3B8" x="622" y="124"><tspan x="622" dy="0">Create a list of</tspan><tspan x="622" dy="23">essential features</tspan><tspan x="622" dy="23">(e.g., location, size,</tspan><tspan x="622" dy="23">school district) and a</tspan><tspan x="622" dy="23">separate list of</tspan></text>
+        
+          <rect x="893" y="0" width="275" height="430.8" rx="12" fill="#141C2F" stroke="#22D3EE" stroke-width="2" />
+          <circle cx="1030.5" cy="40" r="24" fill="#22D3EE" />
+          <text x="1030.5" y="48" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#0B1220">4</text>
+          <text x="909" y="92" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#F8FAFC">Hire a Trusted Real Estate Agent</text>
+          <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#94A3B8" x="909" y="124"><tspan x="909" dy="0">Choose an agent with</tspan><tspan x="909" dy="23">local expertise who will</tspan><tspan x="909" dy="23">guide you through</tspan><tspan x="909" dy="23">listings, negotiations,</tspan><tspan x="909" dy="23">and paperwork with</tspan></text>
+        
+    </g>
+  
+</svg>

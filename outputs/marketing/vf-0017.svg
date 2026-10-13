@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Launch Success: Storytelling Metrics that Drive Sales">
+  <title>Launch Success: Storytelling Metrics that Drive Sales</title>
+  <desc>Brand storytelling for product launches</desc>
+  
+    <rect width="100%" height="100%" fill="#1A0B1F" />
+    
+        <g opacity="0.35" id="motif-circles">
+          <circle cx="1020" cy="94.5" r="157.5" fill="#A855F7" />
+          <circle cx="120" cy="472.5" r="113.39999999999999" fill="#38BDF8" />
+        </g>
+    <text font-family="Georgia, Cambria, Times New Roman, serif" font-size="40" font-weight="700" fill="#FAF5FF" x="32" y="72"><tspan x="32" dy="0">Launch Success: Storytelling Metrics that Drive</tspan><tspan x="32" dy="51.2">Sales</tspan></text>
+    <text x="32" y="105.2" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#D8B4FE">Track the narrative impact of your product launch in real-time</text>
+    
+        <rect x="32" y="158.4" width="558" height="148" rx="20" fill="#2A1233" stroke="#581C87" stroke-width="2" />
+        <text x="56" y="214.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="44" font-weight="700" fill="#E879F9">High (70-85%)*</text>
+        <text x="56" y="250.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#FAF5FF">Story Engagement</text>
+        <text x="56" y="280.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#D8B4FE">Audience interaction across channels</text>
+      
+        <rect x="610" y="158.4" width="558" height="148" rx="20" fill="#2A1233" stroke="#581C87" stroke-width="2" />
+        <text x="634" y="214.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="44" font-weight="700" fill="#E879F9">Strong (30-45%)*</text>
+        <text x="634" y="250.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#FAF5FF">Brand Recall</text>
+        <text x="634" y="280.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#D8B4FE">Post-launch survey</text>
+      
+        <rect x="32" y="326.4" width="558" height="148" rx="20" fill="#2A1233" stroke="#581C87" stroke-width="2" />
+        <text x="56" y="382.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="44" font-weight="700" fill="#E879F9">Moderate (5-10%)*</text>
+        <text x="56" y="418.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#FAF5FF">Conversion Lift</text>
+        <text x="56" y="448.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#D8B4FE">Incremental sales attributed to story</text>
+      
+        <rect x="610" y="326.4" width="558" height="148" rx="20" fill="#2A1233" stroke="#581C87" stroke-width="2" />
+        <text x="634" y="382.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="44" font-weight="700" fill="#E879F9">Rapid (10x growth)*</text>
+        <text x="634" y="418.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#FAF5FF">Social Amplification</text>
+        <text x="634" y="448.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#D8B4FE">Share and mention velocity</text>
+      
+    <text x="32" y="598" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="12" fill="#D8B4FE">* Illustrative metrics unless sourced</text>
+  
+</svg>

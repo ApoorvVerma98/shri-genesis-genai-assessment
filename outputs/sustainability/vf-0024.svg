@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Greening the Grid: How an Urban Tree Canopy Boosts City Life">
+  <title>Greening the Grid: How an Urban Tree Canopy Boosts City Life</title>
+  <desc>Urban tree canopy benefits</desc>
+  
+    <rect width="100%" height="100%" fill="#E0F2FE" />
+    <rect x="32" y="32" width="1136" height="104" rx="14" fill="#0369A1" />
+    <text x="56" y="68" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" font-weight="700" letter-spacing="2" fill="#E0F2FE">ANNOUNCEMENT</text>
+    <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="30" font-weight="700" fill="#E0F2FE" x="56" y="104"><tspan x="56" dy="0">Greening the Grid: How an Urban Tree Canopy Boosts City Life</tspan></text>
+    <g transform="translate(32, 148)">
+      
+        <rect y="0" width="1136" height="58" rx="7" fill="#F0F9FF" stroke="#7DD3FC" stroke-width="1" />
+        <circle cx="28" cy="29" r="8" fill="#F43F5E" />
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#0C4A6E" x="52" y="36"><tspan x="52" dy="0">Lower heat islands—shade cuts street temperatures noticeably.</tspan></text>
+      
+        <rect y="68" width="1136" height="58" rx="7" fill="#F0F9FF" stroke="#7DD3FC" stroke-width="1" />
+        <circle cx="28" cy="97" r="8" fill="#F43F5E" />
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#0C4A6E" x="52" y="104"><tspan x="52" dy="0">Improved air quality—trees capture CO₂ and filter pollutants.</tspan></text>
+      
+        <rect y="136" width="1136" height="58" rx="7" fill="#F0F9FF" stroke="#7DD3FC" stroke-width="1" />
+        <circle cx="28" cy="165" r="8" fill="#F43F5E" />
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#0C4A6E" x="52" y="172"><tspan x="52" dy="0">Enhanced stormwater resilience—root systems slow runoff and recharge groundwater.</tspan></text>
+      
+        <rect y="204" width="1136" height="58" rx="7" fill="#F0F9FF" stroke="#7DD3FC" stroke-width="1" />
+        <circle cx="28" cy="233" r="8" fill="#F43F5E" />
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#0C4A6E" x="52" y="240"><tspan x="52" dy="0">Boosted public health—shade and cleaner air encourage walking and recreation.</tspan></text>
+      
+        <rect y="272" width="1136" height="58" rx="7" fill="#F0F9FF" stroke="#7DD3FC" stroke-width="1" />
+        <circle cx="28" cy="301" r="8" fill="#F43F5E" />
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#0C4A6E" x="52" y="308"><tspan x="52" dy="0">Economic gains—property values rise and energy costs drop in shaded zones.</tspan></text>
+      
+    </g>
+    <text x="32" y="598" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#64748B">Planting shade, cooling streets, and connecting communities—discover the city‑wide benefits.</text>
+  
+</svg>

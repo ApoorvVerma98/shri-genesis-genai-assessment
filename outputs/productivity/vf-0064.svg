@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Deep Work Blocks: Boost Focus Across Time Zones">
+  <title>Deep Work Blocks: Boost Focus Across Time Zones</title>
+  <desc>Deep work blocks for distributed teams (variant 2)</desc>
+  
+    <rect width="100%" height="100%" fill="#F1F5F9" />
+    
+        <g opacity="0.12" stroke="#CBD5E1" id="motif-grid">
+          <line x1="150" y1="0" x2="150" y2="630" stroke-width="1" /><line x1="300" y1="0" x2="300" y2="630" stroke-width="1" /><line x1="450" y1="0" x2="450" y2="630" stroke-width="1" /><line x1="600" y1="0" x2="600" y2="630" stroke-width="1" /><line x1="750" y1="0" x2="750" y2="630" stroke-width="1" /><line x1="900" y1="0" x2="900" y2="630" stroke-width="1" /><line x1="1050" y1="0" x2="1050" y2="630" stroke-width="1" /><line x1="1200" y1="0" x2="1200" y2="630" stroke-width="1" />
+          <line x1="0" y1="126" x2="1200" y2="126" stroke-width="1" /><line x1="0" y1="252" x2="1200" y2="252" stroke-width="1" /><line x1="0" y1="378" x2="1200" y2="378" stroke-width="1" /><line x1="0" y1="504" x2="1200" y2="504" stroke-width="1" /><line x1="0" y1="630" x2="1200" y2="630" stroke-width="1" />
+        </g>
+    <text font-family="Georgia, Cambria, Times New Roman, serif" font-size="40" font-weight="700" fill="#0F172A" x="32" y="72"><tspan x="32" dy="0">Deep Work Blocks: Boost Focus Across Time Zones</tspan></text>
+    <text x="32" y="105.2" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#64748B">Align distributed teams around quiet hours to maximize output without compromising collaboration.</text>
+    
+        <rect x="32" y="158.4" width="558" height="148" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+        <text x="56" y="214.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="44" font-weight="700" fill="#0F172A">3–5 sessions*</text>
+        <text x="56" y="250.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#0F172A">Average Deep Work Sessions per Day</text>
+        <text x="56" y="280.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#64748B">Based on team surveys</text>
+      
+        <rect x="610" y="158.4" width="558" height="148" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+        <text x="634" y="214.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="44" font-weight="700" fill="#0F172A">4–6 hours*</text>
+        <text x="634" y="250.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#0F172A">Time Spent in Deep Work</text>
+        <text x="634" y="280.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#64748B">Per week</text>
+      
+        <rect x="32" y="326.4" width="558" height="148" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+        <text x="56" y="382.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="44" font-weight="700" fill="#0F172A">20–30%*</text>
+        <text x="56" y="418.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#0F172A">Productivity Gain</text>
+        <text x="56" y="448.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#64748B">Measured by task completion rate</text>
+      
+        <rect x="610" y="326.4" width="558" height="148" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+        <text x="634" y="382.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="44" font-weight="700" fill="#0F172A">High*</text>
+        <text x="634" y="418.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#0F172A">Collaboration Efficiency</text>
+        <text x="634" y="448.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#64748B">Teams report better focus</text>
+      
+    <text x="32" y="598" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="12" fill="#64748B">* Illustrative metrics unless sourced</text>
+  
+</svg>

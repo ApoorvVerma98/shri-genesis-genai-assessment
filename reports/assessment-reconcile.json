@@ -1,0 +1,16 @@
+{
+  "completedAt": "2026-10-12T15:49:03.254Z",
+  "assessmentManifest": "E:\\svg-generation assesment\\outputs\\assessment\\manifest.json",
+  "stats": {
+    "entries": 100,
+    "matchedBaselineHash": 0,
+    "unknownProvenance": 100,
+    "resolvedFromArchive": 0,
+    "missingFile": 0
+  },
+  "contentModeCounts": {
+    "ai": 0,
+    "fallback": 0,
+    "unknown": 100
+  }
+}

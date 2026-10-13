@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Leading with Micro-credentials · v3">
+  <title>Leading with Micro-credentials · v3</title>
+  <desc>Micro-credentials for career changers (variant 3)</desc>
+  
+    <rect width="100%" height="100%" fill="#1C1410" />
+    
+        <g opacity="0.2" id="motif-diagonal">
+          <path d="M0 630 L1200 0 L1200 220.5 L0 630" fill="#FB923C" />
+        </g>
+    <rect x="32" y="546" width="176" height="44" rx="8" fill="#FB923C" />
+    <text x="120" y="576" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="17" font-weight="600" fill="#1C1410">Start with micro-cred…</text>
+    <text font-family="Georgia, Cambria, Times New Roman, serif" font-size="52" font-weight="700" fill="#FFF7ED" x="32" y="78.80000000000001"><tspan x="32" dy="0">Leading with</tspan><tspan x="32" dy="58.2">Micro-credentials · v3</tspan></text>
+    <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" fill="#FDBA74" x="32" y="207.20000000000002"><tspan x="32" dy="0">equity of access for adult learners</tspan></text>
+    <rect x="888" y="32" width="280" height="566" rx="8" fill="#2A1F18" stroke="#5C4033" stroke-width="2.5" />
+    <text x="908" y="76" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#FDE047" font-weight="700" letter-spacing="1">EDUCATION</text>
+    <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#FFF7ED" x="908" y="110"><tspan x="908" dy="0">Micro-credentials for</tspan><tspan x="908" dy="23">career changers</tspan><tspan x="908" dy="23">(variant 3)</tspan></text>
+  
+</svg>

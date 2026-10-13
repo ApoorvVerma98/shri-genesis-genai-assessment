@@ -1,0 +1,76 @@
+{
+  "collection": "targeted",
+  "batchRunId": "mv5kvxg5",
+  "requested": 2,
+  "attempted": 2,
+  "generated": 2,
+  "validationPassed": 2,
+  "validationFailed": 0,
+  "failed": 0,
+  "aiGenerated": 2,
+  "fallbackGenerated": 0,
+  "aiAttempted": 2,
+  "aiFailedThenFallback": 0,
+  "batchConfig": {
+    "seed": 4242,
+    "segments": [
+      {
+        "category": "technology",
+        "layoutFamily": "promotional-banner",
+        "count": 1
+      },
+      {
+        "category": "finance",
+        "layoutFamily": "metrics-dashboard",
+        "count": 1
+      }
+    ]
+  },
+  "startedAt": "2026-10-12T18:21:15.414Z",
+  "completedAt": "2026-10-12T18:21:22.203Z",
+  "totalDurationMs": 6788,
+  "entries": [
+    {
+      "id": "vf-mv5kvxg5-0001",
+      "category": "technology",
+      "topic": "Open-source observability stacks",
+      "designType": "banner",
+      "layoutFamily": "promotional-banner",
+      "paletteId": "midnight-cyan",
+      "styleId": "tech-pulse",
+      "outputPath": "technology/vf-mv5kvxg5-0001.svg",
+      "contentMode": "ai",
+      "aiProvider": "openai-compatible",
+      "aiModel": "openai/gpt-oss-20b",
+      "aiAttempted": true,
+      "headline": "Unlock Full Observability with Open-Source Stacks",
+      "generatedAt": "2026-10-12T18:21:17.242Z",
+      "durationMs": 1827,
+      "validationStatus": "passed",
+      "validationIssues": [],
+      "contentHash": "e7f210c1d02d99f653297a0790a6679d7e01dcc566409f6a6229b69b9cd9cb9a",
+      "structureHash": "67dc9faacc9ed8494c344e8a583366c3eb0e472acc5fc81b004bd7f18f08dfd0"
+    },
+    {
+      "id": "vf-mv5kvxg5-0002",
+      "category": "finance",
+      "topic": "Small business cash flow cadence",
+      "designType": "infographic",
+      "layoutFamily": "metrics-dashboard",
+      "paletteId": "forest-sage",
+      "styleId": "eco-growth",
+      "outputPath": "finance/vf-mv5kvxg5-0002.svg",
+      "contentMode": "ai",
+      "aiProvider": "openai-compatible",
+      "aiModel": "openai/gpt-oss-20b",
+      "aiAttempted": true,
+      "headline": "Cash Flow Pulse: Keep Your Small Business Running Smoothly",
+      "generatedAt": "2026-10-12T18:21:22.202Z",
+      "durationMs": 1954,
+      "validationStatus": "passed",
+      "validationIssues": [],
+      "contentHash": "0151105083cca60d8649e254a51fb229fa05f5f218838b55c5db1c41bd1e8926",
+      "structureHash": "92b8d38d22a3422faa0a0298d901e05b8182db6fe88cfff91da84cd57f824b7d"
+    }
+  ]
+}

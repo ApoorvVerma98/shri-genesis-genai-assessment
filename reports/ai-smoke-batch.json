@@ -1,0 +1,37 @@
+{
+  "purpose": "P0 AI smoke batch — targeted run only",
+  "batchRunId": "mv5fgbim",
+  "manifestPath": "E:\\svg-generation assesment\\outputs\\runs\\mv5fgbim\\manifest.json",
+  "requested": 3,
+  "aiSuccess": 3,
+  "fallback": 0,
+  "aiAttempted": 3,
+  "aiFailedThenFallback": 0,
+  "entries": [
+    {
+      "id": "vf-mv5fgbim-0001",
+      "category": "technology",
+      "layoutFamily": "promotional-banner",
+      "contentMode": "ai",
+      "validationStatus": "passed",
+      "outputPath": "technology/vf-mv5fgbim-0001.svg"
+    },
+    {
+      "id": "vf-mv5fgbim-0002",
+      "category": "education",
+      "layoutFamily": "editorial-infographic",
+      "contentMode": "ai",
+      "validationStatus": "passed",
+      "outputPath": "education/vf-mv5fgbim-0002.svg"
+    },
+    {
+      "id": "vf-mv5fgbim-0003",
+      "category": "finance",
+      "layoutFamily": "metrics-dashboard",
+      "contentMode": "ai",
+      "validationStatus": "passed",
+      "outputPath": "finance/vf-mv5fgbim-0003.svg"
+    }
+  ],
+  "completedAt": "2026-10-12T15:49:13.271Z"
+}

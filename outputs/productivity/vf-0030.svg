@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Master Async Documentation: 5 Quick Steps for Remote Teams">
+  <title>Master Async Documentation: 5 Quick Steps for Remote Teams</title>
+  <desc>Async documentation habits</desc>
+  
+    <rect width="100%" height="100%" fill="#E0F2FE" />
+    <text font-family="Georgia, Cambria, Times New Roman, serif" font-size="40" font-weight="700" fill="#0C4A6E" x="32" y="72"><tspan x="32" dy="0">Master Async Documentation: 5 Quick Steps for</tspan><tspan x="32" dy="51.2">Remote Teams</tspan></text>
+    <line x1="32" y1="119.2" x2="1168" y2="119.2" stroke="#7DD3FC" stroke-width="2" />
+    <g transform="translate(0, 143.2)">
+      
+          <rect x="32" y="0" width="275" height="430.8" rx="14" fill="#F0F9FF" stroke="#0369A1" stroke-width="3" />
+          <circle cx="169.5" cy="40" r="24" fill="#0369A1" />
+          <text x="169.5" y="48" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#E0F2FE">1</text>
+          <text x="48" y="92" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#0C4A6E">Define a Docs Standard</text>
+          <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#64748B" x="48" y="124"><tspan x="48" dy="0">Create a lightweight</tspan><tspan x="48" dy="23">style guide—formats,</tspan><tspan x="48" dy="23">headings, and tone—to</tspan><tspan x="48" dy="23">keep docs consistent</tspan><tspan x="48" dy="23">across the team.</tspan></text>
+        
+          <rect x="319" y="0" width="275" height="430.8" rx="14" fill="#F0F9FF" stroke="#0369A1" stroke-width="2" />
+          <circle cx="456.5" cy="40" r="24" fill="#0369A1" />
+          <text x="456.5" y="48" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#E0F2FE">2</text>
+          <text x="335" y="92" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#0C4A6E">Use a Centralized Repo</text>
+          <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#64748B" x="335" y="124"><tspan x="335" dy="0">Host all docs in a</tspan><tspan x="335" dy="23">single</tspan><tspan x="335" dy="23">version‑controlled</tspan><tspan x="335" dy="23">repository (e.g., GitHub</tspan><tspan x="335" dy="23">or Confluence) so</tspan></text>
+        
+          <rect x="606" y="0" width="275" height="430.8" rx="14" fill="#F0F9FF" stroke="#0369A1" stroke-width="2" />
+          <circle cx="743.5" cy="40" r="24" fill="#0369A1" />
+          <text x="743.5" y="48" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#E0F2FE">3</text>
+          <text x="622" y="92" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#0C4A6E">Tag &amp; Searchable Metadata</text>
+          <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#64748B" x="622" y="124"><tspan x="622" dy="0">Add tags, categories,</tspan><tspan x="622" dy="23">and a simple index so</tspan><tspan x="622" dy="23">teammates can find what</tspan><tspan x="622" dy="23">they need with a quick</tspan><tspan x="622" dy="23">search.</tspan></text>
+        
+          <rect x="893" y="0" width="275" height="430.8" rx="14" fill="#F0F9FF" stroke="#0369A1" stroke-width="2" />
+          <circle cx="1030.5" cy="40" r="24" fill="#0369A1" />
+          <text x="1030.5" y="48" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#E0F2FE">4</text>
+          <text x="909" y="92" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#0C4A6E">Automate Sync &amp; Alerts</text>
+          <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#64748B" x="909" y="124"><tspan x="909" dy="0">Set up webhooks or bots</tspan><tspan x="909" dy="23">to notify the channel</tspan><tspan x="909" dy="23">when docs are updated,</tspan><tspan x="909" dy="23">keeping everyone in the</tspan><tspan x="909" dy="23">loop.</tspan></text>
+        
+    </g>
+  
+</svg>

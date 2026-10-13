@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Edge AI vs. Centralized AI: Transforming Healthcare Manufacturing">
+  <title>Edge AI vs. Centralized AI: Transforming Healthcare Manufacturing</title>
+  <desc>Edge AI for smart factories</desc>
+  
+    <rect width="100%" height="100%" fill="#0B1220" />
+    <text font-family="Georgia, Cambria, Times New Roman, serif" font-size="40" font-weight="700" fill="#F8FAFC" x="32" y="72"><tspan x="32" dy="0">Edge AI vs. Centralized AI: Transforming</tspan><tspan x="32" dy="51.2">Healthcare Manufacturing</tspan></text>
+    <rect x="32" y="111.2" width="552" height="486.79999999999995" rx="12" fill="#141C2F" stroke="#22D3EE" stroke-width="3" />
+    <rect x="616" y="111.2" width="552" height="486.79999999999995" rx="12" fill="#141C2F" stroke="#6366F1" stroke-width="3" />
+    <text x="308" y="155.2" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="30" font-weight="700" fill="#22D3EE">Centralized AI (Cloud)</text>
+    <text x="892" y="155.2" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="30" font-weight="700" fill="#6366F1">Edge AI (On‑Device)</text>
+    
+      <circle cx="60" cy="199.2" r="6" fill="#22D3EE" />
+      <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#F8FAFC" x="80" y="205.2"><tspan x="80" dy="0">High latency due to network hops</tspan></text>
+    
+      <circle cx="60" cy="251.2" r="6" fill="#22D3EE" />
+      <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#F8FAFC" x="80" y="257.2"><tspan x="80" dy="0">Limited real‑time decision making</tspan></text>
+    
+    
+      <circle cx="644" cy="199.2" r="6" fill="#6366F1" />
+      <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#F8FAFC" x="664" y="205.2"><tspan x="664" dy="0">Data transmitted to cloud may expose sensitive</tspan><tspan x="664" dy="23">info</tspan></text>
+    
+      <circle cx="644" cy="251.2" r="6" fill="#6366F1" />
+      <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#F8FAFC" x="664" y="257.2"><tspan x="664" dy="0">Compliance challenges</tspan></text>
+    
+  
+</svg>

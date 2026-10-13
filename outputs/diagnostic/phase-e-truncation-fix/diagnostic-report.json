@@ -1,0 +1,64 @@
+{
+  "purpose": "Phase E truncation repair diagnostic (vf-0055, vf-0091 only)",
+  "runAt": "2026-10-13T07:32:22.886Z",
+  "topicPlanSeed": 42,
+  "topicPlanMapping": {
+    "vf-0055": {
+      "planIndex": 54,
+      "topic": "Phishing-resistant authentication (variant 2)",
+      "category": "cybersecurity"
+    },
+    "vf-0091": {
+      "planIndex": 90,
+      "topic": "Phishing-resistant authentication (variant 3)",
+      "category": "cybersecurity"
+    }
+  },
+  "diagnosticOutputRoot": "E:\\svg-generation assesment\\outputs\\diagnostic\\phase-e-truncation-fix",
+  "stagingRunId": "500ef818-1745-4211-bc10-53ac24d2fe45",
+  "stagingUntouched": {
+    "spotCheckFile": "E:\\svg-generation assesment\\outputs\\staging\\500ef818-1745-4211-bc10-53ac24d2fe45\\cybersecurity\\vf-0056.svg",
+    "sha256Before": "ad1b79b7368d6a155b92a9288c44c33f4736d585d4a3114cb9a5be1aef42c92e",
+    "sha256After": "ad1b79b7368d6a155b92a9288c44c33f4736d585d4a3114cb9a5be1aef42c92e",
+    "unchanged": true
+  },
+  "canonicalManifestSha256": "a1d4ddad256147fd7eac6f95c9bd51f955f1900555d9912a0b1b10ed60a45901",
+  "designs": [
+    {
+      "id": "vf-0055",
+      "planIndex": 54,
+      "topic": "Phishing-resistant authentication (variant 2)",
+      "category": "cybersecurity",
+      "layoutFamily": "editorial-infographic",
+      "outputPath": "cybersecurity/vf-0055.svg",
+      "absolutePath": "E:\\svg-generation assesment\\outputs\\diagnostic\\phase-e-truncation-fix\\cybersecurity\\vf-0055.svg",
+      "contentMode": "ai",
+      "validationStatus": "passed",
+      "validationIssues": [],
+      "structuralPassed": true,
+      "visualIssues": [],
+      "hasEllipsis": false,
+      "contentHash": "a5a76c036c1bc8ea27f8df4847add4ead023a6a27e70c82c5620ca4ad379fb4a",
+      "manifestContentHash": "a5a76c036c1bc8ea27f8df4847add4ead023a6a27e70c82c5620ca4ad379fb4a",
+      "headline": "Phishing-Resistant Authentication: Strengthening Access Control"
+    },
+    {
+      "id": "vf-0091",
+      "planIndex": 90,
+      "topic": "Phishing-resistant authentication (variant 3)",
+      "category": "cybersecurity",
+      "layoutFamily": "editorial-infographic",
+      "outputPath": "cybersecurity/vf-0091.svg",
+      "absolutePath": "E:\\svg-generation assesment\\outputs\\diagnostic\\phase-e-truncation-fix\\cybersecurity\\vf-0091.svg",
+      "contentMode": "ai",
+      "validationStatus": "passed",
+      "validationIssues": [],
+      "structuralPassed": true,
+      "visualIssues": [],
+      "hasEllipsis": false,
+      "contentHash": "5d416f4eb21040d8bdc473fa95bc40a01bed28813739b0eb0fc723205a40c395",
+      "manifestContentHash": "5d416f4eb21040d8bdc473fa95bc40a01bed28813739b0eb0fc723205a40c395",
+      "headline": "Fortify Your Access: Phishing‑Resistant Authentication for IT Admins"
+    }
+  ]
+}

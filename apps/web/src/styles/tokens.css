@@ -1,0 +1,88 @@
+:root,
+[data-theme="light"] {
+  color-scheme: light;
+
+  --vf-font-sans: "Segoe UI", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  --vf-font-display: "Georgia", "Cambria", "Times New Roman", serif;
+
+  --vf-bg: #f6f7f9;
+  --vf-bg-elevated: #ffffff;
+  --vf-bg-subtle: #eceef2;
+  --vf-bg-inset: #fafbfc;
+  --vf-bg-muted: #e8eaef;
+  --vf-border: #d5dae3;
+  --vf-border-strong: #b8beca;
+  --vf-text: #12141a;
+  --vf-text-secondary: #454d5c;
+  --vf-text-muted: #6b7280;
+  --vf-accent: #4f46e5;
+  --vf-accent-hover: #4338ca;
+  --vf-accent-muted: #e0e7ff;
+  --vf-accent-subtle: rgba(79, 70, 229, 0.08);
+  --vf-success: #047857;
+  --vf-success-bg: #ecfdf5;
+  --vf-warning: #b45309;
+  --vf-warning-bg: #fffbeb;
+  --vf-danger: #b91c1c;
+  --vf-danger-bg: #fef2f2;
+
+  --vf-preview-bg: #eef0f4;
+  --vf-preview-checker: #e2e5eb;
+  --vf-backdrop: rgba(18, 20, 26, 0.52);
+
+  --vf-radius-sm: 8px;
+  --vf-radius-md: 12px;
+  --vf-radius-lg: 16px;
+
+  --vf-shadow-sm: 0 1px 2px rgba(18, 20, 26, 0.05);
+  --vf-shadow-md: 0 8px 28px rgba(18, 20, 26, 0.1);
+  --vf-shadow-lg: 0 16px 48px rgba(18, 20, 26, 0.12);
+
+  --vf-space-1: 4px;
+  --vf-space-2: 8px;
+  --vf-space-3: 12px;
+  --vf-space-4: 16px;
+  --vf-space-5: 20px;
+  --vf-space-6: 24px;
+  --vf-space-8: 32px;
+  --vf-space-10: 40px;
+
+  --vf-sidebar-w: 252px;
+  --vf-transition: 160ms ease;
+  --vf-focus-ring: 0 0 0 2px var(--vf-bg-elevated), 0 0 0 4px var(--vf-accent);
+}
+
+[data-theme="dark"] {
+  color-scheme: dark;
+
+  --vf-bg: #0e1014;
+  --vf-bg-elevated: #161a22;
+  --vf-bg-subtle: #1c212c;
+  --vf-bg-inset: #12151c;
+  --vf-bg-muted: #222833;
+  --vf-border: #2e3644;
+  --vf-border-strong: #3f4a5c;
+  --vf-text: #f4f5f7;
+  --vf-text-secondary: #b8beca;
+  --vf-text-muted: #8b93a3;
+  --vf-accent: #818cf8;
+  --vf-accent-hover: #a5b4fc;
+  --vf-accent-muted: #2a2f4a;
+  --vf-accent-subtle: rgba(129, 140, 248, 0.12);
+  --vf-success-bg: #052e22;
+  --vf-warning-bg: #3b2f0a;
+  --vf-danger-bg: #3f1515;
+  --vf-preview-bg: #1a1e26;
+  --vf-preview-checker: #252b36;
+  --vf-backdrop: rgba(0, 0, 0, 0.65);
+  --vf-shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.35);
+  --vf-shadow-md: 0 12px 32px rgba(0, 0, 0, 0.45);
+  --vf-shadow-lg: 0 20px 56px rgba(0, 0, 0, 0.55);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --vf-transition: 0ms;
+  }
+}
+

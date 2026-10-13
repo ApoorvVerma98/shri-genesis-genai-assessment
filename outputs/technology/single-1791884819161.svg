@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Edge AI: Empowering Smart Factories with Real-Time Intelligence">
+  <title>Edge AI: Empowering Smart Factories with Real-Time Intelligence</title>
+  <desc>Edge AI for smart factories</desc>
+  
+    <rect width="100%" height="100%" fill="#0B1220" />
+    <rect x="32" y="32" width="1136" height="104" rx="12" fill="#22D3EE" />
+    <text x="56" y="68" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" font-weight="700" letter-spacing="2" fill="#0B1220">TECHNOLOGY</text>
+    <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="30" font-weight="700" fill="#0B1220" x="56" y="104"><tspan x="56" dy="0">Edge AI: Empowering Smart Factories with Real-Time Intelligence</tspan></text>
+    <g transform="translate(32, 148)">
+      
+        <rect y="0" width="1136" height="58" rx="6" fill="#141C2F" stroke="#334155" stroke-width="1" />
+        <circle cx="28" cy="29" r="8" fill="#F472B6" />
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#F8FAFC" x="52" y="36"><tspan x="52" dy="0">Zero‑latency decision making right on the plant floor</tspan></text>
+      
+        <rect y="68" width="1136" height="58" rx="6" fill="#141C2F" stroke="#334155" stroke-width="1" />
+        <circle cx="28" cy="97" r="8" fill="#F472B6" />
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#F8FAFC" x="52" y="104"><tspan x="52" dy="0">Self‑optimizing production lines through continuous learning</tspan></text>
+      
+        <rect y="136" width="1136" height="58" rx="6" fill="#141C2F" stroke="#334155" stroke-width="1" />
+        <circle cx="28" cy="165" r="8" fill="#F472B6" />
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#F8FAFC" x="52" y="172"><tspan x="52" dy="0">Predictive maintenance that substantially reduces unplanned downtime</tspan></text>
+      
+        <rect y="204" width="1136" height="58" rx="6" fill="#141C2F" stroke="#334155" stroke-width="1" />
+        <circle cx="28" cy="233" r="8" fill="#F472B6" />
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#F8FAFC" x="52" y="240"><tspan x="52" dy="0">Seamless integration with existing MES and IIoT ecosystems</tspan></text>
+      
+        <rect y="272" width="1136" height="58" rx="6" fill="#141C2F" stroke="#334155" stroke-width="1" />
+        <circle cx="28" cy="301" r="8" fill="#F472B6" />
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#F8FAFC" x="52" y="308"><tspan x="52" dy="0">Scalable from a single machine to an entire plant with minimal re‑engineering</tspan></text>
+      
+    </g>
+    <text x="32" y="598" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#94A3B8">Harness distributed AI to reduce downtime, boost quality, and accelerate innovation across productio</text>
+  
+</svg>

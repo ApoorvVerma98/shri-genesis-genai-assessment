@@ -1,0 +1,26 @@
+{
+  "requested": 100,
+  "attempted": 100,
+  "generated": 100,
+  "validationPassed": 100,
+  "validationFailed": 0,
+  "failed": 0,
+  "totalDurationMs": 1304,
+  "averageMsPerDesign": 13,
+  "aiProvider": {
+    "provider": "fallback",
+    "configured": true,
+    "message": "Deterministic structured fallback (not AI). Set AI_PROVIDER and AI_API_KEY for real inference."
+  },
+  "aiGeneratedCount": 0,
+  "fallbackCount": 100,
+  "validationSummary": {
+    "passed": 100,
+    "failed": 0
+  },
+  "knownLimitations": [
+    "Text wrapping uses character estimates, not font metrics.",
+    "Automated overlap detection is heuristic only."
+  ],
+  "completedAt": "2026-10-12T12:58:12.294Z"
+}

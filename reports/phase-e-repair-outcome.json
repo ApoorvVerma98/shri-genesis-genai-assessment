@@ -1,0 +1,1290 @@
+{
+  "parentRunId": "500ef818-1745-4211-bc10-53ac24d2fe45",
+  "parentOutcome": "promotion_blocked_validation_original",
+  "repairCompletedAt": "2026-10-13T07:34:26.679Z",
+  "repairBackupPath": "E:\\svg-generation assesment\\reports\\repair-backups\\phase-e-500ef818-1745-4211-bc10-53ac24d2fe45-2026-10-13T07-34-23-568Z",
+  "repairedIds": [
+    "vf-0055",
+    "vf-0091"
+  ],
+  "layoutFix": "editorial-tile-fit (packages/svg-engine/src/layouts/editorial-tile-fit.ts)",
+  "manifest": {
+    "path": "E:\\svg-generation assesment\\outputs\\staging\\500ef818-1745-4211-bc10-53ac24d2fe45\\manifest.json",
+    "sha256Before": "31b437e3b63d68abfe68522e5d87f01b54cdf7e0a5691eed15bf14ee17317a15",
+    "sha256After": "d6b38563f8eaa8320f5b194d9359706c559c5c40e5a391b213af094db404e9bc"
+  },
+  "repairedSvgs": [
+    {
+      "id": "vf-0055",
+      "outputPath": "cybersecurity/vf-0055.svg",
+      "absolutePath": "E:\\svg-generation assesment\\outputs\\staging\\500ef818-1745-4211-bc10-53ac24d2fe45\\cybersecurity\\vf-0055.svg",
+      "contentHash": "24a66d63ad5ce1d5bdc59e9be29d76b2e8bc911ccf0fc637c9ec93dc73233d42",
+      "structureHash": "92f2a8bc52308c43211e608474975ad8d71298632b74563f41f8f90782b3071c",
+      "validationStatus": "passed",
+      "validationIssues": [],
+      "contentMode": "ai",
+      "aiProvider": "openai-compatible",
+      "aiModel": "openai/gpt-oss-20b",
+      "aiAttempted": true,
+      "topic": "Phishing-resistant authentication (variant 2)",
+      "category": "cybersecurity",
+      "layoutFamily": "editorial-infographic",
+      "headline": "Phishing‑Resistant Authentication: The Next Generation of Secure Access"
+    },
+    {
+      "id": "vf-0091",
+      "outputPath": "cybersecurity/vf-0091.svg",
+      "absolutePath": "E:\\svg-generation assesment\\outputs\\staging\\500ef818-1745-4211-bc10-53ac24d2fe45\\cybersecurity\\vf-0091.svg",
+      "contentHash": "cb4e981cc3385dba15d5b1fdcf009e805f413073e4e9ecf8bcb60eca57ce5e6a",
+      "structureHash": "08ad2ddc02de21e1f1dd06759b9a1b98b9c29868e19cf85fcad5b6723477d6e9",
+      "validationStatus": "passed",
+      "validationIssues": [],
+      "contentMode": "ai",
+      "aiProvider": "openai-compatible",
+      "aiModel": "openai/gpt-oss-20b",
+      "aiAttempted": true,
+      "topic": "Phishing-resistant authentication (variant 3)",
+      "category": "cybersecurity",
+      "layoutFamily": "editorial-infographic",
+      "headline": "Phishing‑Resistant Authentication: Strengthening Access Control"
+    }
+  ],
+  "provenanceTotals": {
+    "aiGenerated": 95,
+    "fallbackGenerated": 5,
+    "aiAttempted": 100,
+    "aiFailedThenFallback": 5,
+    "validationPassed": 100,
+    "validationFailed": 0,
+    "failed": 0,
+    "generated": 100,
+    "requested": 100,
+    "attempted": 100
+  },
+  "allEntriesValidation": [
+    {
+      "id": "vf-0001",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "87f37543202fe971b853ca36648966bb0020ef8168e80779457331a3cafb0637",
+        "manifestContentHash": "87f37543202fe971b853ca36648966bb0020ef8168e80779457331a3cafb0637"
+      }
+    },
+    {
+      "id": "vf-0002",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "e2326cfed8d835498d7fb51c5b998da428ef1813f3cfa342d048e2470e2e2a9d",
+        "manifestContentHash": "e2326cfed8d835498d7fb51c5b998da428ef1813f3cfa342d048e2470e2e2a9d"
+      }
+    },
+    {
+      "id": "vf-0003",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "3e49fa1813a9b9805e85f6562463698d482282dcf15d92d2d345cf1341c799c6",
+        "manifestContentHash": "3e49fa1813a9b9805e85f6562463698d482282dcf15d92d2d345cf1341c799c6"
+      }
+    },
+    {
+      "id": "vf-0004",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "dfdc5c4deec70d22e10f25ad75eaebcb39cd6deb380b28dd93d974996557e136",
+        "manifestContentHash": "dfdc5c4deec70d22e10f25ad75eaebcb39cd6deb380b28dd93d974996557e136"
+      }
+    },
+    {
+      "id": "vf-0005",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "68cecc4a14ec73de733224e193bd752788416d7bd0e226f3fcfb12872b0ba0c3",
+        "manifestContentHash": "68cecc4a14ec73de733224e193bd752788416d7bd0e226f3fcfb12872b0ba0c3"
+      }
+    },
+    {
+      "id": "vf-0006",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "04c91f615a0f6f4bb2dee407d0133ab2e8e6580d357bd71a178f80ab4161cddb",
+        "manifestContentHash": "04c91f615a0f6f4bb2dee407d0133ab2e8e6580d357bd71a178f80ab4161cddb"
+      }
+    },
+    {
+      "id": "vf-0007",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "60997096710589f5358c02a31a06ab336dda0a73a1c2203b2877897c7872bec1",
+        "manifestContentHash": "60997096710589f5358c02a31a06ab336dda0a73a1c2203b2877897c7872bec1"
+      }
+    },
+    {
+      "id": "vf-0008",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "dfcef7e0eae51fa24693f7de4a2150686ed77307cfadaa794a795de4f9e45424",
+        "manifestContentHash": "dfcef7e0eae51fa24693f7de4a2150686ed77307cfadaa794a795de4f9e45424"
+      }
+    },
+    {
+      "id": "vf-0009",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "4a566f04d208947239bab4092d8ef58c804691c9efb3a9af1e57563a54d545aa",
+        "manifestContentHash": "4a566f04d208947239bab4092d8ef58c804691c9efb3a9af1e57563a54d545aa"
+      }
+    },
+    {
+      "id": "vf-0010",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "470fe6a4d26dfb3f1ea8f2b3de30b4b851fbacf883aa749a3715e20ad1dafe8a",
+        "manifestContentHash": "470fe6a4d26dfb3f1ea8f2b3de30b4b851fbacf883aa749a3715e20ad1dafe8a"
+      }
+    },
+    {
+      "id": "vf-0011",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "14d751eb17b4448268a1f0de13e4af50d6bf58a02145ef42fe135ae1018c01b2",
+        "manifestContentHash": "14d751eb17b4448268a1f0de13e4af50d6bf58a02145ef42fe135ae1018c01b2"
+      }
+    },
+    {
+      "id": "vf-0012",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "534d190f38e86048b61255d0919666a7d0e7856df066ce8492978cf117ae9c48",
+        "manifestContentHash": "534d190f38e86048b61255d0919666a7d0e7856df066ce8492978cf117ae9c48"
+      }
+    },
+    {
+      "id": "vf-0013",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "351c25220b2c5a2eb076ac73a05318b4449e7742cc1fc9834d44a1b53ac5f9a5",
+        "manifestContentHash": "351c25220b2c5a2eb076ac73a05318b4449e7742cc1fc9834d44a1b53ac5f9a5"
+      }
+    },
+    {
+      "id": "vf-0014",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "9f8fe8110e548022ef25883b7705aa7e92577e4797ec2d13c257334ac3fa1ce7",
+        "manifestContentHash": "9f8fe8110e548022ef25883b7705aa7e92577e4797ec2d13c257334ac3fa1ce7"
+      }
+    },
+    {
+      "id": "vf-0015",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "b0650815896ddaeb2a8e23b72309fbc4bc6f860b8166d3e7aa412f08e2018f4d",
+        "manifestContentHash": "b0650815896ddaeb2a8e23b72309fbc4bc6f860b8166d3e7aa412f08e2018f4d"
+      }
+    },
+    {
+      "id": "vf-0016",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "390e7baa1aad536c4697c57beca3a273eb5ef84e0d67de9bcddeb1258e80bde9",
+        "manifestContentHash": "390e7baa1aad536c4697c57beca3a273eb5ef84e0d67de9bcddeb1258e80bde9"
+      }
+    },
+    {
+      "id": "vf-0017",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "b927c395ff4ef6e0cf9fcdcd2193f3b0214111a5f96ecc3656fd71d3460505cc",
+        "manifestContentHash": "b927c395ff4ef6e0cf9fcdcd2193f3b0214111a5f96ecc3656fd71d3460505cc"
+      }
+    },
+    {
+      "id": "vf-0018",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "aed2fb388524e1ae8233cda4c70ca1077c1ef248e2a2d33a99b9827d2a23a874",
+        "manifestContentHash": "aed2fb388524e1ae8233cda4c70ca1077c1ef248e2a2d33a99b9827d2a23a874"
+      }
+    },
+    {
+      "id": "vf-0019",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "856e97487c4289836d6088c8828dc91cdfb958dfb76949c33b93150f95c78066",
+        "manifestContentHash": "856e97487c4289836d6088c8828dc91cdfb958dfb76949c33b93150f95c78066"
+      }
+    },
+    {
+      "id": "vf-0020",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "df84de64328253a084d1ddc32dae47a7bae8bfb85372ebaa40c9b8c2e904a0f9",
+        "manifestContentHash": "df84de64328253a084d1ddc32dae47a7bae8bfb85372ebaa40c9b8c2e904a0f9"
+      }
+    },
+    {
+      "id": "vf-0021",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "903c2e6f2dfd51cdfea609f4a5d51b293c1ae3673b68986398aa56b7499b0e3e",
+        "manifestContentHash": "903c2e6f2dfd51cdfea609f4a5d51b293c1ae3673b68986398aa56b7499b0e3e"
+      }
+    },
+    {
+      "id": "vf-0022",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "6bf0d6f1af1067f8a13aaf8ecc5cb18bdaaa73278b7469b4823afe99d6eb0600",
+        "manifestContentHash": "6bf0d6f1af1067f8a13aaf8ecc5cb18bdaaa73278b7469b4823afe99d6eb0600"
+      }
+    },
+    {
+      "id": "vf-0023",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "f1b1bfd12650de68f0ab96a0d47a092cef32013c642d4f7705fcf17478dd7d8f",
+        "manifestContentHash": "f1b1bfd12650de68f0ab96a0d47a092cef32013c642d4f7705fcf17478dd7d8f"
+      }
+    },
+    {
+      "id": "vf-0024",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "cc849667b623f3ab8172fc767d7a1f05fec8f7d7720d3f7c027ae14fb966e4a6",
+        "manifestContentHash": "cc849667b623f3ab8172fc767d7a1f05fec8f7d7720d3f7c027ae14fb966e4a6"
+      }
+    },
+    {
+      "id": "vf-0025",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "7d4b22b6efcfd14614a765689099bb851fefa892905ee77448a56440802fd522",
+        "manifestContentHash": "7d4b22b6efcfd14614a765689099bb851fefa892905ee77448a56440802fd522"
+      }
+    },
+    {
+      "id": "vf-0026",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "12ff50228a1cfeb85c5288e209c12fbd3a016706f9bdf6743afcf3fbdddb1278",
+        "manifestContentHash": "12ff50228a1cfeb85c5288e209c12fbd3a016706f9bdf6743afcf3fbdddb1278"
+      }
+    },
+    {
+      "id": "vf-0027",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "dcbdcd8f9d251ec301d1f34529bdb870dda94f018e51e3aff5ca298c505e2a68",
+        "manifestContentHash": "dcbdcd8f9d251ec301d1f34529bdb870dda94f018e51e3aff5ca298c505e2a68"
+      }
+    },
+    {
+      "id": "vf-0028",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "bf377bc10a4c173dc35ff093ee9232a345f90b566fc594512b050b857e79ffe5",
+        "manifestContentHash": "bf377bc10a4c173dc35ff093ee9232a345f90b566fc594512b050b857e79ffe5"
+      }
+    },
+    {
+      "id": "vf-0029",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "dc9aa0db10967cf13532aee9caa028f20fb0546d8c13e81134a1a96b18e87fc3",
+        "manifestContentHash": "dc9aa0db10967cf13532aee9caa028f20fb0546d8c13e81134a1a96b18e87fc3"
+      }
+    },
+    {
+      "id": "vf-0030",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "789d88dc07faaab2f8888501329cdb1ed4e08ada298f310876ff090120cf5835",
+        "manifestContentHash": "789d88dc07faaab2f8888501329cdb1ed4e08ada298f310876ff090120cf5835"
+      }
+    },
+    {
+      "id": "vf-0031",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "e9d5017c61f1af9673f7feba570bfd495250507210cb9325b286c2d2c222dd7f",
+        "manifestContentHash": "e9d5017c61f1af9673f7feba570bfd495250507210cb9325b286c2d2c222dd7f"
+      }
+    },
+    {
+      "id": "vf-0032",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "77877c8b88cea246b29cbfcb00ffe2666e3c3a0896d4868b3b2e95c6f38af000",
+        "manifestContentHash": "77877c8b88cea246b29cbfcb00ffe2666e3c3a0896d4868b3b2e95c6f38af000"
+      }
+    },
+    {
+      "id": "vf-0033",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "c416d23e4a91b82e6fa6c2bc37d734c7d16518335786497bcc175a177c84411a",
+        "manifestContentHash": "c416d23e4a91b82e6fa6c2bc37d734c7d16518335786497bcc175a177c84411a"
+      }
+    },
+    {
+      "id": "vf-0034",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "04ace16d12333738e7c38fb121d84cfdc41cd1b41ce5f8ed1f6329efd9e474b2",
+        "manifestContentHash": "04ace16d12333738e7c38fb121d84cfdc41cd1b41ce5f8ed1f6329efd9e474b2"
+      }
+    },
+    {
+      "id": "vf-0035",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "daf41a2234ec3db134de8efb9cfc0a5750efae044daae3980650b3bb672e5915",
+        "manifestContentHash": "daf41a2234ec3db134de8efb9cfc0a5750efae044daae3980650b3bb672e5915"
+      }
+    },
+    {
+      "id": "vf-0036",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "bc4d95773be19b45d58929c000eb735673bd3d963ebbc455b46e658e825b55fc",
+        "manifestContentHash": "bc4d95773be19b45d58929c000eb735673bd3d963ebbc455b46e658e825b55fc"
+      }
+    },
+    {
+      "id": "vf-0037",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "1c1ccb8ebeedb2c2f6c2e641ffa3b7b950b6ee251b8dfac56a48ca8c467d7c3a",
+        "manifestContentHash": "1c1ccb8ebeedb2c2f6c2e641ffa3b7b950b6ee251b8dfac56a48ca8c467d7c3a"
+      }
+    },
+    {
+      "id": "vf-0038",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "58edb5d4ab5a7d9dfb4f7967ba83fff7c7743dcea2c8149b99ddd5d9cf96f0cd",
+        "manifestContentHash": "58edb5d4ab5a7d9dfb4f7967ba83fff7c7743dcea2c8149b99ddd5d9cf96f0cd"
+      }
+    },
+    {
+      "id": "vf-0039",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "f6cc6464e00a5617310ca0d7ac630f78a5e5a07c0749c5057491da0570b847f9",
+        "manifestContentHash": "f6cc6464e00a5617310ca0d7ac630f78a5e5a07c0749c5057491da0570b847f9"
+      }
+    },
+    {
+      "id": "vf-0040",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "c3cf24f59c409da89cfe60c6f083e339fdc4ab05f41b439352361d1ea1fed5df",
+        "manifestContentHash": "c3cf24f59c409da89cfe60c6f083e339fdc4ab05f41b439352361d1ea1fed5df"
+      }
+    },
+    {
+      "id": "vf-0041",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "a37f918c94ddcd34ece11c3e05ecf6b20242cc47ebfcfaf4940e50e094726741",
+        "manifestContentHash": "a37f918c94ddcd34ece11c3e05ecf6b20242cc47ebfcfaf4940e50e094726741"
+      }
+    },
+    {
+      "id": "vf-0042",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "d526d767ffd0dbb8391bfc06d3373d395bd5241f92a8b1a47306233c22d5ca06",
+        "manifestContentHash": "d526d767ffd0dbb8391bfc06d3373d395bd5241f92a8b1a47306233c22d5ca06"
+      }
+    },
+    {
+      "id": "vf-0043",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "bd958592021e65587a97b6a13dc5cae478b6d4441bb18ba40eda1672da3ad597",
+        "manifestContentHash": "bd958592021e65587a97b6a13dc5cae478b6d4441bb18ba40eda1672da3ad597"
+      }
+    },
+    {
+      "id": "vf-0044",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "b4aeb8536f8f03386bb6a5ae314b5696965e69959f08ae3a3094d85969baec63",
+        "manifestContentHash": "b4aeb8536f8f03386bb6a5ae314b5696965e69959f08ae3a3094d85969baec63"
+      }
+    },
+    {
+      "id": "vf-0045",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "5fd16fc976ae8513bfa4672c412ebb7517a05db49b61e41d9d058450d3e717ff",
+        "manifestContentHash": "5fd16fc976ae8513bfa4672c412ebb7517a05db49b61e41d9d058450d3e717ff"
+      }
+    },
+    {
+      "id": "vf-0046",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "eb83c9a3bb3c75b8c50d83d1425e567ea15133b8e81ef43bd57878793a218d50",
+        "manifestContentHash": "eb83c9a3bb3c75b8c50d83d1425e567ea15133b8e81ef43bd57878793a218d50"
+      }
+    },
+    {
+      "id": "vf-0047",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "1874386fe23fdd7251674fb5bbfd12514f1617a88ae267d502e3b73ce2727799",
+        "manifestContentHash": "1874386fe23fdd7251674fb5bbfd12514f1617a88ae267d502e3b73ce2727799"
+      }
+    },
+    {
+      "id": "vf-0048",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "c7b8eae3f7fab2ec6c93aace659496288492ca6a1a2e777aae98a4bd4c85c388",
+        "manifestContentHash": "c7b8eae3f7fab2ec6c93aace659496288492ca6a1a2e777aae98a4bd4c85c388"
+      }
+    },
+    {
+      "id": "vf-0049",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "0e931875489c203a2c15fa52938301e322d31d3a480e8278dd03030c8ef66db6",
+        "manifestContentHash": "0e931875489c203a2c15fa52938301e322d31d3a480e8278dd03030c8ef66db6"
+      }
+    },
+    {
+      "id": "vf-0050",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "060bcd13fe31fa2e05756d477bfe0edee5345b93dd4e67580c1d897135e36d05",
+        "manifestContentHash": "060bcd13fe31fa2e05756d477bfe0edee5345b93dd4e67580c1d897135e36d05"
+      }
+    },
+    {
+      "id": "vf-0051",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "8dfabc64e16290cc703cc6541b09f8ec94f4a7cd4c1b0df1f736fdcd5a195ea0",
+        "manifestContentHash": "8dfabc64e16290cc703cc6541b09f8ec94f4a7cd4c1b0df1f736fdcd5a195ea0"
+      }
+    },
+    {
+      "id": "vf-0052",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "9c129099b8337e8de3b055ab5f71baf3a0d00b11e64d2a5a0034d243ccc35b75",
+        "manifestContentHash": "9c129099b8337e8de3b055ab5f71baf3a0d00b11e64d2a5a0034d243ccc35b75"
+      }
+    },
+    {
+      "id": "vf-0053",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "1792b25f2e7daeb2e9a8f6a109add72c2dfee01f2aa33967d17cfe129fdba242",
+        "manifestContentHash": "1792b25f2e7daeb2e9a8f6a109add72c2dfee01f2aa33967d17cfe129fdba242"
+      }
+    },
+    {
+      "id": "vf-0054",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "528cb2407897f45b179af13d6c41adaf7081ab74d1a54e3be536d134d898a734",
+        "manifestContentHash": "528cb2407897f45b179af13d6c41adaf7081ab74d1a54e3be536d134d898a734"
+      }
+    },
+    {
+      "id": "vf-0055",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "24a66d63ad5ce1d5bdc59e9be29d76b2e8bc911ccf0fc637c9ec93dc73233d42",
+        "manifestContentHash": "24a66d63ad5ce1d5bdc59e9be29d76b2e8bc911ccf0fc637c9ec93dc73233d42"
+      }
+    },
+    {
+      "id": "vf-0056",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "ad1b79b7368d6a155b92a9288c44c33f4736d585d4a3114cb9a5be1aef42c92e",
+        "manifestContentHash": "ad1b79b7368d6a155b92a9288c44c33f4736d585d4a3114cb9a5be1aef42c92e"
+      }
+    },
+    {
+      "id": "vf-0057",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "b6942f8b3fe2d7d71c785af9cc15df63bd8d98c2f4165a0ce356ad64192417da",
+        "manifestContentHash": "b6942f8b3fe2d7d71c785af9cc15df63bd8d98c2f4165a0ce356ad64192417da"
+      }
+    },
+    {
+      "id": "vf-0058",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "b6316174ad083c77cffcbc9160dd81320443c3f6fbf7880c83f508241e1664ab",
+        "manifestContentHash": "b6316174ad083c77cffcbc9160dd81320443c3f6fbf7880c83f508241e1664ab"
+      }
+    },
+    {
+      "id": "vf-0059",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "daba1dd38fea4f7bb9c5d20ee8ead583e25994be2e7e5f672f6af0d9215636dc",
+        "manifestContentHash": "daba1dd38fea4f7bb9c5d20ee8ead583e25994be2e7e5f672f6af0d9215636dc"
+      }
+    },
+    {
+      "id": "vf-0060",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "b2859cb49462359bad65f5a3e699a618de88cc7a4678a862ca2aba5746725068",
+        "manifestContentHash": "b2859cb49462359bad65f5a3e699a618de88cc7a4678a862ca2aba5746725068"
+      }
+    },
+    {
+      "id": "vf-0061",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "bdb007240c35b664943d0a20436edbe4987128cc05e547891cc9cfda7154acc2",
+        "manifestContentHash": "bdb007240c35b664943d0a20436edbe4987128cc05e547891cc9cfda7154acc2"
+      }
+    },
+    {
+      "id": "vf-0062",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "d79765ec070c0352c11ed21b8871aa0bbaa986561e49609722f984272a149102",
+        "manifestContentHash": "d79765ec070c0352c11ed21b8871aa0bbaa986561e49609722f984272a149102"
+      }
+    },
+    {
+      "id": "vf-0063",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "2c2a9e45182a61b9da8a654190b0dcb0ca6aab03bd1aba51f94257bc94a6f688",
+        "manifestContentHash": "2c2a9e45182a61b9da8a654190b0dcb0ca6aab03bd1aba51f94257bc94a6f688"
+      }
+    },
+    {
+      "id": "vf-0064",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "ca378431eff32273148b5bfe7c33c8dc95265b38d568de3f953bdbc63e84046c",
+        "manifestContentHash": "ca378431eff32273148b5bfe7c33c8dc95265b38d568de3f953bdbc63e84046c"
+      }
+    },
+    {
+      "id": "vf-0065",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "b1bbe607c683e5101b6fb7d4b3c90ffd8eea62de8ef998789d6aefeb809a156b",
+        "manifestContentHash": "b1bbe607c683e5101b6fb7d4b3c90ffd8eea62de8ef998789d6aefeb809a156b"
+      }
+    },
+    {
+      "id": "vf-0066",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "5cccbd702fb23dabae851c451501875207115ee68dfc639e130073c8b3c4f5ad",
+        "manifestContentHash": "5cccbd702fb23dabae851c451501875207115ee68dfc639e130073c8b3c4f5ad"
+      }
+    },
+    {
+      "id": "vf-0067",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "cc5b522377ba09e8547fbe4eedfef9e4a8390478d970007bcbe508d2df5dff44",
+        "manifestContentHash": "cc5b522377ba09e8547fbe4eedfef9e4a8390478d970007bcbe508d2df5dff44"
+      }
+    },
+    {
+      "id": "vf-0068",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "b8054f63d40a7c4bbb0fbd8f34e8b035bea09c595e81e3265423909c99b22022",
+        "manifestContentHash": "b8054f63d40a7c4bbb0fbd8f34e8b035bea09c595e81e3265423909c99b22022"
+      }
+    },
+    {
+      "id": "vf-0069",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "d36580fff70c5adbc014376c415b82a93656d64bc00f2764707ed58688160532",
+        "manifestContentHash": "d36580fff70c5adbc014376c415b82a93656d64bc00f2764707ed58688160532"
+      }
+    },
+    {
+      "id": "vf-0070",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "9a89d7c571de9b8df10268aeeec7ce80b781b64e030406f96d332f4256e356dc",
+        "manifestContentHash": "9a89d7c571de9b8df10268aeeec7ce80b781b64e030406f96d332f4256e356dc"
+      }
+    },
+    {
+      "id": "vf-0071",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "34210c07cfefd0aed05473fc960ede1c81cf473fce658c181b249e22930c0236",
+        "manifestContentHash": "34210c07cfefd0aed05473fc960ede1c81cf473fce658c181b249e22930c0236"
+      }
+    },
+    {
+      "id": "vf-0072",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "21fef684fbb6daf16bab01b26ad9383e885956b2b2e0b3d20c3844ab4d82ab56",
+        "manifestContentHash": "21fef684fbb6daf16bab01b26ad9383e885956b2b2e0b3d20c3844ab4d82ab56"
+      }
+    },
+    {
+      "id": "vf-0073",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "67750b131004c81e521a3c4b492ba76baac96b6fc73bd593ea897950954f9546",
+        "manifestContentHash": "67750b131004c81e521a3c4b492ba76baac96b6fc73bd593ea897950954f9546"
+      }
+    },
+    {
+      "id": "vf-0074",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "c72e4eee8829ab1444d71c8be90f62a812143e24242d690f14d2b43f23c1bf70",
+        "manifestContentHash": "c72e4eee8829ab1444d71c8be90f62a812143e24242d690f14d2b43f23c1bf70"
+      }
+    },
+    {
+      "id": "vf-0075",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "bf93b83366654dd88be7344ebad55ea67bd1c6f977371a74779ea3a792c36918",
+        "manifestContentHash": "bf93b83366654dd88be7344ebad55ea67bd1c6f977371a74779ea3a792c36918"
+      }
+    },
+    {
+      "id": "vf-0076",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "3b8e01bd05d82adc7145c7b9c9c2a2b5b5f49678fe29381027d8f2b7be5f7435",
+        "manifestContentHash": "3b8e01bd05d82adc7145c7b9c9c2a2b5b5f49678fe29381027d8f2b7be5f7435"
+      }
+    },
+    {
+      "id": "vf-0077",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "a1afc7917bed38e5ce1b0590d948f0a94827015c540edf25c6b0d94d49cbba13",
+        "manifestContentHash": "a1afc7917bed38e5ce1b0590d948f0a94827015c540edf25c6b0d94d49cbba13"
+      }
+    },
+    {
+      "id": "vf-0078",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "46a84191b1da23fc49bd939ea748700f533f26272fb19876beb44369859531c5",
+        "manifestContentHash": "46a84191b1da23fc49bd939ea748700f533f26272fb19876beb44369859531c5"
+      }
+    },
+    {
+      "id": "vf-0079",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "abc4dc38ffe7053a8606cf37c5955a1bf810f30a28d5d43e421437b230cf5cfa",
+        "manifestContentHash": "abc4dc38ffe7053a8606cf37c5955a1bf810f30a28d5d43e421437b230cf5cfa"
+      }
+    },
+    {
+      "id": "vf-0080",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "2ed9f518d2362d2f96f75ac8fd97843584606a1ed0691c17e7c1edb232a5e171",
+        "manifestContentHash": "2ed9f518d2362d2f96f75ac8fd97843584606a1ed0691c17e7c1edb232a5e171"
+      }
+    },
+    {
+      "id": "vf-0081",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "2a1cba36e91aa210b6a085339a3c8c29000cd06347be701efd5a947f2821c159",
+        "manifestContentHash": "2a1cba36e91aa210b6a085339a3c8c29000cd06347be701efd5a947f2821c159"
+      }
+    },
+    {
+      "id": "vf-0082",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "16d981b40504faed2e312e34c19abfcfa3c60d9b4a1acbf10ea9875e0ffb4dd1",
+        "manifestContentHash": "16d981b40504faed2e312e34c19abfcfa3c60d9b4a1acbf10ea9875e0ffb4dd1"
+      }
+    },
+    {
+      "id": "vf-0083",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "9f4f06eddfc3935c71a4a847019fc96e7a656d585a167b453be3027922680a35",
+        "manifestContentHash": "9f4f06eddfc3935c71a4a847019fc96e7a656d585a167b453be3027922680a35"
+      }
+    },
+    {
+      "id": "vf-0084",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "4b8c8e321a3f07c6f6437d1ca7926cdf6a75ee3af05ae4b7e193db3777512eec",
+        "manifestContentHash": "4b8c8e321a3f07c6f6437d1ca7926cdf6a75ee3af05ae4b7e193db3777512eec"
+      }
+    },
+    {
+      "id": "vf-0085",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "fad0ec2764821c0768ef67a76e3c54cd2b554d00cacb653ca35d44d30d1b2a51",
+        "manifestContentHash": "fad0ec2764821c0768ef67a76e3c54cd2b554d00cacb653ca35d44d30d1b2a51"
+      }
+    },
+    {
+      "id": "vf-0086",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "b8efea7b3dcf8d89a2b5faa867468c4b90f998094444cef3b09c6938aada30d7",
+        "manifestContentHash": "b8efea7b3dcf8d89a2b5faa867468c4b90f998094444cef3b09c6938aada30d7"
+      }
+    },
+    {
+      "id": "vf-0087",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "8da8fb8f132e6ae9fb312ccb0e4d31ba6d3d4fe3d8a746fec6f75732f728e765",
+        "manifestContentHash": "8da8fb8f132e6ae9fb312ccb0e4d31ba6d3d4fe3d8a746fec6f75732f728e765"
+      }
+    },
+    {
+      "id": "vf-0088",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "d43c0b9aa8cf0394b2a2558fbd65f56574489c0e080f5fa1802fc602c72f7051",
+        "manifestContentHash": "d43c0b9aa8cf0394b2a2558fbd65f56574489c0e080f5fa1802fc602c72f7051"
+      }
+    },
+    {
+      "id": "vf-0089",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "fa383dcbe09d8db22b33d75642f2500d254edcaa9dda59486810b370e6bc3f93",
+        "manifestContentHash": "fa383dcbe09d8db22b33d75642f2500d254edcaa9dda59486810b370e6bc3f93"
+      }
+    },
+    {
+      "id": "vf-0090",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "7ae20f717024ee857f5240c4c048304ea40b7bc5ea8f14d04941323aadaf6b7c",
+        "manifestContentHash": "7ae20f717024ee857f5240c4c048304ea40b7bc5ea8f14d04941323aadaf6b7c"
+      }
+    },
+    {
+      "id": "vf-0091",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "cb4e981cc3385dba15d5b1fdcf009e805f413073e4e9ecf8bcb60eca57ce5e6a",
+        "manifestContentHash": "cb4e981cc3385dba15d5b1fdcf009e805f413073e4e9ecf8bcb60eca57ce5e6a"
+      }
+    },
+    {
+      "id": "vf-0092",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "f0b251b3a8bb64942ed894ebe7894bed1d672c103216e7f7a4dd00fa20a35b25",
+        "manifestContentHash": "f0b251b3a8bb64942ed894ebe7894bed1d672c103216e7f7a4dd00fa20a35b25"
+      }
+    },
+    {
+      "id": "vf-0093",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "992576a91ceb40367e46f4688124b9bd4767b1bfc2e17d8a49e108e3ac512dca",
+        "manifestContentHash": "992576a91ceb40367e46f4688124b9bd4767b1bfc2e17d8a49e108e3ac512dca"
+      }
+    },
+    {
+      "id": "vf-0094",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "f7ebfbeb8f088072f75b082f41ca7cde9553f04c8bc50d6dfbffeb9b03fb63a2",
+        "manifestContentHash": "f7ebfbeb8f088072f75b082f41ca7cde9553f04c8bc50d6dfbffeb9b03fb63a2"
+      }
+    },
+    {
+      "id": "vf-0095",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "99d4afaa43708e528f18c9eaa606dd164b8a88d97fbdc7016bb7114d9fc7d878",
+        "manifestContentHash": "99d4afaa43708e528f18c9eaa606dd164b8a88d97fbdc7016bb7114d9fc7d878"
+      }
+    },
+    {
+      "id": "vf-0096",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "8dcef87c72e0fff05cbddb920482e0340068009353b68c312c4c3e7a6106e80f",
+        "manifestContentHash": "8dcef87c72e0fff05cbddb920482e0340068009353b68c312c4c3e7a6106e80f"
+      }
+    },
+    {
+      "id": "vf-0097",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "c1b1753bf116362f6d9e5cb32b2eab1497f3fa90851c49668b3badfcaccfaa54",
+        "manifestContentHash": "c1b1753bf116362f6d9e5cb32b2eab1497f3fa90851c49668b3badfcaccfaa54"
+      }
+    },
+    {
+      "id": "vf-0098",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "dffcf707d01e4b9a73c0fcca9472c357c23f184bb67adc7f41b212be4278f900",
+        "manifestContentHash": "dffcf707d01e4b9a73c0fcca9472c357c23f184bb67adc7f41b212be4278f900"
+      }
+    },
+    {
+      "id": "vf-0099",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "80a7665b2fd2c1691ab73766d06ac040b73e61766ca3f1987df1e661d8c5163a",
+        "manifestContentHash": "80a7665b2fd2c1691ab73766d06ac040b73e61766ca3f1987df1e661d8c5163a"
+      }
+    },
+    {
+      "id": "vf-0100",
+      "checks": {
+        "validationStatusPassed": true,
+        "validationIssuesEmpty": true,
+        "structuralPassed": true,
+        "noTruncation": true,
+        "contentHashMatchesFile": true,
+        "fileContentHash": "45a534476c24fb16d89c7574d3eaa04b52714744ce781715234998eb890c57cc",
+        "manifestContentHash": "45a534476c24fb16d89c7574d3eaa04b52714744ce781715234998eb890c57cc"
+      }
+    }
+  ],
+  "unchanged98Check": {
+    "total": 98,
+    "failures": [],
+    "allUnchanged": true
+  },
+  "stagingArtifactVerification": {
+    "missingPaths": [],
+    "passed": true
+  },
+  "promotionGate": {
+    "ok": true,
+    "errors": [],
+    "assertOk": true
+  },
+  "canonicalIntegrity": {
+    "manifestSha256": "a1d4ddad256147fd7eac6f95c9bd51f955f1900555d9912a0b1b10ed60a45901",
+    "backupManifestSha256": "a1d4ddad256147fd7eac6f95c9bd51f955f1900555d9912a0b1b10ed60a45901",
+    "manifestMatchesPrePhaseEBackup": true,
+    "expectedCanonicalManifestSha256": "a1d4ddad256147fd7eac6f95c9bd51f955f1900555d9912a0b1b10ed60a45901",
+    "svgDiffCountVsBackup": 0,
+    "allCanonicalSvgsMatchBackup": true
+  },
+  "promotionExecuted": false,
+  "note": "execution-run.json and batch-progress.json unchanged — original failed promotion preserved."
+}

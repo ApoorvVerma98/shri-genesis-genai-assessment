@@ -1,0 +1,328 @@
+{
+  "canonicalManifestPath": "E:\\svg-generation assesment\\outputs\\assessment\\manifest.json",
+  "canonicalOutputDir": "E:\\svg-generation assesment\\outputs",
+  "staleManifestPaths": [
+    {
+      "path": "E:\\svg-generation assesment\\apps\\api\\outputs\\assessment\\manifest.json",
+      "reason": "Stale copy from mistaken OUTPUT_DIR cwd; not used by API/CLI after path fix.",
+      "entryCount": 100
+    }
+  ],
+  "provenance": {
+    "ai": 0,
+    "fallback": 0,
+    "unknown": 100,
+    "hybrid": 0,
+    "failed": 0,
+    "missingSvg": 0
+  },
+  "orphanSvgCount": 39,
+  "orphanSvgSample": [
+    "business/vf-mv5ftd3o-0008.svg",
+    "business/vf-qa-mv5mnc5l-compare.svg",
+    "business/vf-qa-mv6apcvw-compare.svg",
+    "cybersecurity/vf-mv5ftd3o-0006.svg",
+    "education/vf-mv5fgbim-0002.svg",
+    "education/vf-mv5ftd3o-0002.svg",
+    "finance/vf-mv5fgbim-0003.svg",
+    "finance/vf-mv5ftd3o-0003.svg",
+    "finance/vf-mv5kvxg5-0002.svg",
+    "healthcare/vf-mv5ekfwi-0001.svg",
+    "healthcare/vf-mv5ekfwi-0002.svg",
+    "healthcare/vf-mv5ekfwi-0003.svg",
+    "healthcare/vf-mv5ekfwi-0004.svg",
+    "healthcare/vf-mv5ekfwi-0005.svg",
+    "healthcare/vf-mv5ekfwi-0006.svg"
+  ],
+  "duplicateHeadlineGroups": 0,
+  "nearDuplicatePairs": 0,
+  "exactDuplicateContentGroups": 0,
+  "structuralValidation": {
+    "passed": 100,
+    "failed": 0
+  },
+  "coverage": {
+    "collection": "assessment",
+    "totalEntries": 100,
+    "ai": 0,
+    "fallback": 0,
+    "unknown": 100,
+    "hybrid": 0,
+    "validationPassed": 100,
+    "validationFailed": 0,
+    "categories": [
+      {
+        "category": "business",
+        "planned": 9,
+        "actual": 9,
+        "ai": 0,
+        "fallback": 0,
+        "unknown": 9,
+        "validationFailed": 0,
+        "sampleIds": [
+          "vf-0004",
+          "vf-0005",
+          "vf-0006"
+        ]
+      },
+      {
+        "category": "cybersecurity",
+        "planned": 9,
+        "actual": 9,
+        "ai": 0,
+        "fallback": 0,
+        "unknown": 9,
+        "validationFailed": 0,
+        "sampleIds": [
+          "vf-0019",
+          "vf-0020",
+          "vf-0021"
+        ]
+      },
+      {
+        "category": "ecommerce",
+        "planned": 9,
+        "actual": 9,
+        "ai": 0,
+        "fallback": 0,
+        "unknown": 9,
+        "validationFailed": 0,
+        "sampleIds": [
+          "vf-0025",
+          "vf-0026",
+          "vf-0027"
+        ]
+      },
+      {
+        "category": "education",
+        "planned": 9,
+        "actual": 9,
+        "ai": 0,
+        "fallback": 0,
+        "unknown": 9,
+        "validationFailed": 0,
+        "sampleIds": [
+          "vf-0007",
+          "vf-0008",
+          "vf-0009"
+        ]
+      },
+      {
+        "category": "finance",
+        "planned": 9,
+        "actual": 9,
+        "ai": 0,
+        "fallback": 0,
+        "unknown": 9,
+        "validationFailed": 0,
+        "sampleIds": [
+          "vf-0013",
+          "vf-0014",
+          "vf-0015"
+        ]
+      },
+      {
+        "category": "healthcare",
+        "planned": 9,
+        "actual": 9,
+        "ai": 0,
+        "fallback": 0,
+        "unknown": 9,
+        "validationFailed": 0,
+        "sampleIds": [
+          "vf-0010",
+          "vf-0011",
+          "vf-0012"
+        ]
+      },
+      {
+        "category": "marketing",
+        "planned": 9,
+        "actual": 9,
+        "ai": 0,
+        "fallback": 0,
+        "unknown": 9,
+        "validationFailed": 0,
+        "sampleIds": [
+          "vf-0016",
+          "vf-0017",
+          "vf-0018"
+        ]
+      },
+      {
+        "category": "productivity",
+        "planned": 7,
+        "actual": 7,
+        "ai": 0,
+        "fallback": 0,
+        "unknown": 7,
+        "validationFailed": 0,
+        "sampleIds": [
+          "vf-0028",
+          "vf-0029",
+          "vf-0030"
+        ]
+      },
+      {
+        "category": "real-estate",
+        "planned": 6,
+        "actual": 6,
+        "ai": 0,
+        "fallback": 0,
+        "unknown": 6,
+        "validationFailed": 0,
+        "sampleIds": [
+          "vf-0034",
+          "vf-0035",
+          "vf-0036"
+        ]
+      },
+      {
+        "category": "social-awareness",
+        "planned": 6,
+        "actual": 6,
+        "ai": 0,
+        "fallback": 0,
+        "unknown": 6,
+        "validationFailed": 0,
+        "sampleIds": [
+          "vf-0031",
+          "vf-0032",
+          "vf-0033"
+        ]
+      },
+      {
+        "category": "sustainability",
+        "planned": 9,
+        "actual": 9,
+        "ai": 0,
+        "fallback": 0,
+        "unknown": 9,
+        "validationFailed": 0,
+        "sampleIds": [
+          "vf-0022",
+          "vf-0023",
+          "vf-0024"
+        ]
+      },
+      {
+        "category": "technology",
+        "planned": 9,
+        "actual": 9,
+        "ai": 0,
+        "fallback": 0,
+        "unknown": 9,
+        "validationFailed": 0,
+        "sampleIds": [
+          "vf-0001",
+          "vf-0002",
+          "vf-0003"
+        ]
+      }
+    ],
+    "layouts": [
+      {
+        "layoutFamily": "comparison",
+        "actual": 14,
+        "ai": 0,
+        "fallback": 0,
+        "unknown": 14,
+        "sampleIds": [
+          "vf-0005",
+          "vf-0009"
+        ]
+      },
+      {
+        "layoutFamily": "editorial-infographic",
+        "actual": 11,
+        "ai": 0,
+        "fallback": 0,
+        "unknown": 11,
+        "sampleIds": [
+          "vf-0002",
+          "vf-0016"
+        ]
+      },
+      {
+        "layoutFamily": "feature-grid",
+        "actual": 12,
+        "ai": 0,
+        "fallback": 0,
+        "unknown": 12,
+        "sampleIds": [
+          "vf-0006",
+          "vf-0012"
+        ]
+      },
+      {
+        "layoutFamily": "list-announcement",
+        "actual": 10,
+        "ai": 0,
+        "fallback": 0,
+        "unknown": 10,
+        "sampleIds": [
+          "vf-0008",
+          "vf-0011"
+        ]
+      },
+      {
+        "layoutFamily": "metrics-dashboard",
+        "actual": 13,
+        "ai": 0,
+        "fallback": 0,
+        "unknown": 13,
+        "sampleIds": [
+          "vf-0003",
+          "vf-0019"
+        ]
+      },
+      {
+        "layoutFamily": "promotional-banner",
+        "actual": 14,
+        "ai": 0,
+        "fallback": 0,
+        "unknown": 14,
+        "sampleIds": [
+          "vf-0001",
+          "vf-0017"
+        ]
+      },
+      {
+        "layoutFamily": "quote-banner",
+        "actual": 17,
+        "ai": 0,
+        "fallback": 0,
+        "unknown": 17,
+        "sampleIds": [
+          "vf-0007",
+          "vf-0013"
+        ]
+      },
+      {
+        "layoutFamily": "step-by-step",
+        "actual": 9,
+        "ai": 0,
+        "fallback": 0,
+        "unknown": 9,
+        "sampleIds": [
+          "vf-0004",
+          "vf-0029"
+        ]
+      }
+    ],
+    "generatedAt": "2026-10-13T06:24:06.610Z"
+  },
+  "executionRun": {
+    "status": "failed",
+    "runId": "18bfbb7a-78ba-48ad-81cd-88c796d50136",
+    "collection": "assessment",
+    "requested": 100,
+    "startedAt": "2026-10-12T16:31:43.380Z",
+    "message": "Batch did not complete; execution-report.json was not updated for this run.",
+    "completedAt": "2026-10-12T17:02:06.317Z",
+    "error": "Run interrupted or process exited (stale in_progress)"
+  },
+  "executionRunInterpretation": "Last batch failed (18bfbb7a-78ba-48ad-81cd-88c796d50136): Run interrupted or process exited (stale in_progress).",
+  "aggregateProvenanceNote": "Per-entry AI/fallback for regenerated vf-NNNN files is unknown (100-entry manifest was overwritten). Aggregate metrics from the 2026-10-12 phase-2 batch are preserved in reports/backups and reports/execution-report.json (6 AI / 94 fallback) but are not assigned to individual file IDs.",
+  "generatedAt": "2026-10-13T06:24:06.612Z"
+}

@@ -1,0 +1,96 @@
+{
+  "phase": "C-controlled-verification",
+  "purpose": "8-design multi category/layout AI pipeline verification",
+  "batchRunId": "mv5ftd3o",
+  "manifestPath": "E:\\svg-generation assesment\\outputs\\runs\\mv5ftd3o\\manifest.json",
+  "requested": 8,
+  "aiSuccess": 7,
+  "fallback": 1,
+  "aiRate": 88,
+  "aiAttempted": 8,
+  "aiFailedThenFallback": 1,
+  "entries": [
+    {
+      "id": "vf-mv5ftd3o-0001",
+      "category": "technology",
+      "layoutFamily": "promotional-banner",
+      "topic": "Responsible generative AI guardrails",
+      "headline": "Build AI That Works for Everyone",
+      "contentMode": "ai",
+      "validationStatus": "passed",
+      "outputPath": "technology/vf-mv5ftd3o-0001.svg"
+    },
+    {
+      "id": "vf-mv5ftd3o-0002",
+      "category": "education",
+      "layoutFamily": "editorial-infographic",
+      "topic": "Micro-credentials for career changers",
+      "headline": "Micro‑Credentials: Your Fast‑Track to a New Career",
+      "contentMode": "ai",
+      "validationStatus": "passed",
+      "outputPath": "education/vf-mv5ftd3o-0002.svg"
+    },
+    {
+      "id": "vf-mv5ftd3o-0003",
+      "category": "finance",
+      "layoutFamily": "metrics-dashboard",
+      "topic": "Small business cash flow cadence",
+      "headline": "Keep Your Cash Flow on a Steady Beat",
+      "contentMode": "ai",
+      "validationStatus": "passed",
+      "outputPath": "finance/vf-mv5ftd3o-0003.svg"
+    },
+    {
+      "id": "vf-mv5ftd3o-0004",
+      "category": "healthcare",
+      "layoutFamily": "quote-banner",
+      "topic": "Medication adherence tips",
+      "headline": "Keep Meds on Track: Simple Steps for Caregivers",
+      "contentMode": "ai",
+      "validationStatus": "passed",
+      "outputPath": "healthcare/vf-mv5ftd3o-0004.svg"
+    },
+    {
+      "id": "vf-mv5ftd3o-0005",
+      "category": "marketing",
+      "layoutFamily": "comparison",
+      "topic": "Community-led growth loops",
+      "headline": "Community-led growth loops: essentials",
+      "contentMode": "fallback",
+      "validationStatus": "passed",
+      "outputPath": "marketing/vf-mv5ftd3o-0005.svg",
+      "fallbackReason": "AI JSON schema: [\n  {\n    \"code\": \"too_big\",\n    \"maximum\": 2,\n    \"type\": \"array\",\n    \"inclusive\": true,\n    \"exact\": true,\n    \"message\": \"Array must contain"
+    },
+    {
+      "id": "vf-mv5ftd3o-0006",
+      "category": "cybersecurity",
+      "layoutFamily": "step-by-step",
+      "topic": "Zero-trust for remote teams",
+      "headline": "Zero‑Trust Blueprint for Remote Teams",
+      "contentMode": "ai",
+      "validationStatus": "passed",
+      "outputPath": "cybersecurity/vf-mv5ftd3o-0006.svg"
+    },
+    {
+      "id": "vf-mv5ftd3o-0007",
+      "category": "sustainability",
+      "layoutFamily": "feature-grid",
+      "topic": "Urban tree canopy benefits",
+      "headline": "Urban Tree Canopies: Growing Green, Cooling Cities",
+      "contentMode": "ai",
+      "validationStatus": "passed",
+      "outputPath": "sustainability/vf-mv5ftd3o-0007.svg"
+    },
+    {
+      "id": "vf-mv5ftd3o-0008",
+      "category": "business",
+      "layoutFamily": "list-announcement",
+      "topic": "Bootstrapping a B2B SaaS in 90 days",
+      "headline": "Launch Your B2B SaaS in 90 Days—Bootstrapped and Ready",
+      "contentMode": "ai",
+      "validationStatus": "passed",
+      "outputPath": "business/vf-mv5ftd3o-0008.svg"
+    }
+  ],
+  "completedAt": "2026-10-12T15:59:42.845Z"
+}

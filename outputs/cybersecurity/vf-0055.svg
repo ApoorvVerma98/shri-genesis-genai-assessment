@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Phishing-Resistant Authentication: Strengthening Your Security Posture">
+  <title>Phishing-Resistant Authentication: Strengthening Your Security Posture</title>
+  <desc>Phishing-resistant authentication (variant 2)</desc>
+  
+    <rect width="100%" height="100%" fill="#0B1220" />
+    <rect x="0" y="0" width="1200" height="128" fill="#141C2F" />
+    <g transform="translate(32,40)"><path d="M24 8 L40 16 v16 a12 12 0 0 1 -24 0 v-16 Z" fill="none" stroke="#22D3EE" stroke-width="3"/></g>
+    <text font-family="Georgia, Cambria, Times New Roman, serif" font-size="40" font-weight="700" fill="#F8FAFC" x="104" y="78"><tspan x="104" dy="0">Phishing-Resistant Authentication:</tspan><tspan x="104" dy="51.2">Strengthening Your Security Posture</tspan></text>
+    <text x="1168" y="78" text-anchor="end" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#94A3B8">infographic</text>
+    <rect x="32" y="156" width="552" height="444" rx="12" fill="#141C2F" stroke="#334155" stroke-width="2" />
+    <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#F8FAFC" x="56" y="196"><tspan x="56" dy="0">Traditional passwords are vulnerable. Adopt</tspan><tspan x="56" dy="23">zero-trust, adaptive authentication, and</tspan><tspan x="56" dy="23">continuous verification to thwart phishing</tspan><tspan x="56" dy="23">attacks.</tspan></text>
+    <g transform="translate(616, 156)">
+      
+        <rect y="0" width="552" height="96" rx="12" fill="#0B1220" stroke="#22D3EE" stroke-width="2" />
+        <text x="20" y="38" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#22D3EE">1</text>
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#F8FAFC" x="48" y="38"><tspan x="48" dy="0">Zero-Trust Architecture: Verify every access</tspan><tspan x="48" dy="23">request, regardless of source.</tspan></text>
+      
+        <rect y="108" width="552" height="96" rx="12" fill="#0B1220" stroke="#22D3EE" stroke-width="2" />
+        <text x="20" y="146" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#22D3EE">2</text>
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#F8FAFC" x="48" y="146"><tspan x="48" dy="0">Adaptive MFA: Trigger additional factors based on</tspan><tspan x="48" dy="23">risk signals like location or device.</tspan></text>
+      
+        <rect y="216" width="552" height="96" rx="12" fill="#0B1220" stroke="#22D3EE" stroke-width="2" />
+        <text x="20" y="254" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#22D3EE">3</text>
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#F8FAFC" x="48" y="254"><tspan x="48" dy="0">Behavioral Biometrics: Detect anomalies in typing</tspan><tspan x="48" dy="23">rhythm and mouse movements.</tspan></text>
+      
+        <rect y="324" width="552" height="96" rx="12" fill="#0B1220" stroke="#22D3EE" stroke-width="2" />
+        <text x="20" y="362" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#22D3EE">4</text>
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#F8FAFC" x="48" y="362"><tspan x="48" dy="0">Real-Time Threat Intelligence: Integrate with</tspan><tspan x="48" dy="23">email filtering to block malicious URLs</tspan></text>
+      
+    </g>
+  
+</svg>

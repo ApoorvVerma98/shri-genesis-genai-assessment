@@ -1,0 +1,42 @@
+{
+  "purpose": "Phase 5 — controlled quality tests (long banner + comparison)",
+  "runAt": "2026-10-13T06:45:53.431Z",
+  "aiProvider": "openai-compatible",
+  "aiConfigured": true,
+  "assessmentManifest": {
+    "path": "E:\\svg-generation assesment\\outputs\\assessment\\manifest.json",
+    "sha256Before": "a1d4ddad256147fd7eac6f95c9bd51f955f1900555d9912a0b1b10ed60a45901",
+    "sha256After": "a1d4ddad256147fd7eac6f95c9bd51f955f1900555d9912a0b1b10ed60a45901",
+    "unchanged": true
+  },
+  "designs": [
+    {
+      "id": "vf-qa-mv6bhgr5-banner",
+      "category": "technology",
+      "layoutFamily": "promotional-banner",
+      "topic": "Enterprise edge AI platforms for resilient smart-factory automation with zero-latency quality control",
+      "aiAttempted": true,
+      "contentMode": "ai",
+      "validationStatus": "passed",
+      "validationIssues": [],
+      "structuralPassed": true,
+      "visualIssues": [],
+      "outputPath": "technology/vf-qa-mv6bhgr5-banner.svg",
+      "hasEllipsis": false
+    },
+    {
+      "id": "vf-qa-mv6bhgr5-compare",
+      "category": "business",
+      "layoutFamily": "comparison",
+      "topic": "Customer success playbooks that scale across global teams",
+      "aiAttempted": true,
+      "contentMode": "ai",
+      "validationStatus": "passed",
+      "validationIssues": [],
+      "structuralPassed": true,
+      "visualIssues": [],
+      "outputPath": "business/vf-qa-mv6bhgr5-compare.svg",
+      "hasEllipsis": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Master Your Cash Flow Cadence: A Simple Rhythm for SMB Success">
+  <title>Master Your Cash Flow Cadence: A Simple Rhythm for SMB Success</title>
+  <desc>Small business cash flow cadence</desc>
+  
+    <rect width="100%" height="100%" fill="#1C1410" />
+    <rect x="0" y="0" width="1200" height="128" fill="#2A1F18" />
+    <g transform="translate(32,40)"><circle cx="24" cy="24" r="20" fill="none" stroke="#FB923C" stroke-width="3"/><text x="24" y="30" text-anchor="middle" font-size="22" fill="#FB923C" font-family="sans-serif">$</text></g>
+    <text font-family="Georgia, Cambria, Times New Roman, serif" font-size="40" font-weight="700" fill="#FFF7ED" x="104" y="78"><tspan x="104" dy="0">Master Your Cash Flow Cadence: A Simple Rhythm</tspan><tspan x="104" dy="51.2">for SMB Success</tspan></text>
+    <text x="1168" y="78" text-anchor="end" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#FDBA74">infographic</text>
+    <rect x="32" y="156" width="552" height="444" rx="8" fill="#2A1F18" stroke="#5C4033" stroke-width="2.5" />
+    <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#FFF7ED" x="56" y="196"><tspan x="56" dy="0">By establishing a regular cash flow rhythm, you</tspan><tspan x="56" dy="23">can anticipate cash shortages, optimize working</tspan><tspan x="56" dy="23">capital, and make confident decisions without the</tspan><tspan x="56" dy="23">stress of last‑minute surprises.</tspan></text>
+    <g transform="translate(616, 156)">
+      
+        <rect y="0" width="552" height="96" rx="8" fill="#1C1410" stroke="#FB923C" stroke-width="2" />
+        <text x="20" y="38" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#FB923C">1</text>
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#FFF7ED" x="48" y="38"><tspan x="48" dy="0">Set a fixed invoicing schedule to predict</tspan><tspan x="48" dy="23">inflows.</tspan></text>
+      
+        <rect y="108" width="552" height="96" rx="8" fill="#1C1410" stroke="#FB923C" stroke-width="2" />
+        <text x="20" y="146" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#FB923C">2</text>
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#FFF7ED" x="48" y="146"><tspan x="48" dy="0">Track expenses weekly to spot trends early.</tspan></text>
+      
+        <rect y="216" width="552" height="96" rx="8" fill="#1C1410" stroke="#FB923C" stroke-width="2" />
+        <text x="20" y="254" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#FB923C">3</text>
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#FFF7ED" x="48" y="254"><tspan x="48" dy="0">Reserve a buffer: aim for 3–6 months of operating</tspan><tspan x="48" dy="23">costs.</tspan></text>
+      
+        <rect y="324" width="552" height="96" rx="8" fill="#1C1410" stroke="#FB923C" stroke-width="2" />
+        <text x="20" y="362" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#FB923C">4</text>
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#FFF7ED" x="48" y="362"><tspan x="48" dy="0">Review and adjust monthly to stay on target.</tspan></text>
+      
+    </g>
+  
+</svg>

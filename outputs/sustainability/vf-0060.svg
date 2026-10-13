@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Greening Our City: The Power of Urban Tree Canopies">
+  <title>Greening Our City: The Power of Urban Tree Canopies</title>
+  <desc>Urban tree canopy benefits (variant 2)</desc>
+  
+    <rect width="100%" height="100%" fill="#E0F2FE" />
+    <rect x="32" y="32" width="1136" height="104" rx="14" fill="#0369A1" />
+    <text x="56" y="68" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" font-weight="700" letter-spacing="2" fill="#E0F2FE">ANNOUNCEMENT</text>
+    <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="30" font-weight="700" fill="#E0F2FE" x="56" y="104"><tspan x="56" dy="0">Greening Our City: The Power of Urban Tree Canopies</tspan></text>
+    <g transform="translate(32, 148)">
+      
+        <rect y="0" width="1136" height="58" rx="7" fill="#F0F9FF" stroke="#7DD3FC" stroke-width="1" />
+        <circle cx="28" cy="29" r="8" fill="#F43F5E" />
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#0C4A6E" x="52" y="36"><tspan x="52" dy="0">Lower Urban Temperatures: Trees shade streets, keeping neighborhoods cooler.</tspan></text>
+      
+        <rect y="68" width="1136" height="58" rx="7" fill="#F0F9FF" stroke="#7DD3FC" stroke-width="1" />
+        <circle cx="28" cy="97" r="8" fill="#F43F5E" />
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#0C4A6E" x="52" y="104"><tspan x="52" dy="0">Energy Savings: Reduced air‑conditioning demand translates to lower utility bills.</tspan></text>
+      
+        <rect y="136" width="1136" height="58" rx="7" fill="#F0F9FF" stroke="#7DD3FC" stroke-width="1" />
+        <circle cx="28" cy="165" r="8" fill="#F43F5E" />
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#0C4A6E" x="52" y="172"><tspan x="52" dy="0">Improved Air Quality: Leaves filter pollutants, creating cleaner breathing spaces.</tspan></text>
+      
+        <rect y="204" width="1136" height="58" rx="7" fill="#F0F9FF" stroke="#7DD3FC" stroke-width="1" />
+        <circle cx="28" cy="233" r="8" fill="#F43F5E" />
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#0C4A6E" x="52" y="240"><tspan x="52" dy="0">Community Health &amp; Cohesion: Green spaces encourage physical activity and social interaction.</tspan></text>
+      
+    </g>
+    <text x="32" y="598" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#64748B">Discover how expanding tree cover reduces heat, cuts energy use, and boosts community wellbeing—empo</text>
+  
+</svg>

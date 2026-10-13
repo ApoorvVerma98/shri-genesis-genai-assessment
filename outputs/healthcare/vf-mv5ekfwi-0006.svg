@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Keep Care on Track: Simple Medication Adherence Hacks">
+  <title>Keep Care on Track: Simple Medication Adherence Hacks</title>
+  <desc>Medication adherence tips (variant 2)</desc>
+  
+    <rect width="100%" height="100%" fill="#E0F2FE" />
+    
+        <g opacity="0.2" id="motif-hex" fill="none" stroke="#0369A1" stroke-width="2">
+          <polygon points="900,126 1080,220.5 1080,346.5 900,441 720,346.5 720,220.5" />
+        </g>
+    <text x="48" y="96" font-family="Georgia, Cambria, Times New Roman, serif" font-size="96" fill="#0369A1" opacity="0.28">"</text>
+    <text font-family="Georgia, Cambria, Times New Roman, serif" font-size="30" font-style="italic" fill="#0C4A6E" x="64" y="327"><tspan x="64" dy="0">&quot;Consistency is the key to recovery.&quot;</tspan></text>
+    <line x1="48" y1="526" x2="168" y2="526" stroke="#F43F5E" stroke-width="4" />
+    <text x="48" y="562" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#64748B">— Nurse Practitioner</text>
+  
+</svg>

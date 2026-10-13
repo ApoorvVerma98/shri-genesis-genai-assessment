@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Unlock a New Career Path with Micro-Credentials">
+  <title>Unlock a New Career Path with Micro-Credentials</title>
+  <desc>Micro-credentials for career changers</desc>
+  
+    <rect width="100%" height="100%" fill="#1C1410" />
+    <text font-family="Georgia, Cambria, Times New Roman, serif" font-size="40" font-weight="700" fill="#FFF7ED" x="32" y="72"><tspan x="32" dy="0">Unlock a New Career Path with Micro-Credentials</tspan></text>
+    <line x1="32" y1="119.2" x2="1168" y2="119.2" stroke="#5C4033" stroke-width="2" />
+    <g transform="translate(0, 143.2)">
+      
+          <rect x="32" y="0" width="275" height="430.8" rx="8" fill="#2A1F18" stroke="#FB923C" stroke-width="3" />
+          <circle cx="169.5" cy="40" r="24" fill="#FB923C" />
+          <text x="169.5" y="48" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#1C1410">1</text>
+          <text x="48" y="92" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#FFF7ED">Identify Your Target Role</text>
+          <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#FDBA74" x="48" y="124"><tspan x="48" dy="0">Research industries and</tspan><tspan x="48" dy="23">jobs that excite you,</tspan><tspan x="48" dy="23">and pinpoint the skills</tspan><tspan x="48" dy="23">that employers value</tspan><tspan x="48" dy="23">most.</tspan></text>
+        
+          <rect x="319" y="0" width="275" height="430.8" rx="8" fill="#2A1F18" stroke="#FB923C" stroke-width="2.5" />
+          <circle cx="456.5" cy="40" r="24" fill="#FB923C" />
+          <text x="456.5" y="48" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#1C1410">2</text>
+          <text x="335" y="92" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#FFF7ED">Choose a Reputable Micro‑Credential Program</text>
+          <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#FDBA74" x="335" y="124"><tspan x="335" dy="0">Select a course offered</tspan><tspan x="335" dy="23">by accredited</tspan><tspan x="335" dy="23">institutions or industry</tspan><tspan x="335" dy="23">partners that align with</tspan><tspan x="335" dy="23">your career goals.</tspan></text>
+        
+          <rect x="606" y="0" width="275" height="430.8" rx="8" fill="#2A1F18" stroke="#FB923C" stroke-width="2.5" />
+          <circle cx="743.5" cy="40" r="24" fill="#FB923C" />
+          <text x="743.5" y="48" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#1C1410">3</text>
+          <text x="622" y="92" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#FFF7ED">Complete the Learning Modules</text>
+          <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#FDBA74" x="622" y="124"><tspan x="622" dy="0">Engage with interactive</tspan><tspan x="622" dy="23">lessons, projects, and</tspan><tspan x="622" dy="23">assessments at your own</tspan><tspan x="622" dy="23">pace to build real‑world</tspan><tspan x="622" dy="23">expertise.</tspan></text>
+        
+          <rect x="893" y="0" width="275" height="430.8" rx="8" fill="#2A1F18" stroke="#FB923C" stroke-width="2.5" />
+          <circle cx="1030.5" cy="40" r="24" fill="#FB923C" />
+          <text x="1030.5" y="48" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#1C1410">4</text>
+          <text x="909" y="92" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#FFF7ED">Showcase Your Credential to Employers</text>
+          <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#FDBA74" x="909" y="124"><tspan x="909" dy="0">Add the credential to</tspan><tspan x="909" dy="23">your résumé, LinkedIn</tspan><tspan x="909" dy="23">profile, and portfolio,</tspan><tspan x="909" dy="23">and highlight the</tspan><tspan x="909" dy="23">practical skills you’ve</tspan></text>
+        
+    </g>
+  
+</svg>

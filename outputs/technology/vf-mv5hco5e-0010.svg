@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Edge AI: Turning Factories into Smart, Autonomous Systems">
+  <title>Edge AI: Turning Factories into Smart, Autonomous Systems</title>
+  <desc>Edge AI for smart factories (variant 4)</desc>
+  
+    <rect width="100%" height="100%" fill="#F1F5F9" />
+    
+        <g opacity="0.12" stroke="#CBD5E1" id="motif-grid">
+          <line x1="150" y1="0" x2="150" y2="630" stroke-width="1" /><line x1="300" y1="0" x2="300" y2="630" stroke-width="1" /><line x1="450" y1="0" x2="450" y2="630" stroke-width="1" /><line x1="600" y1="0" x2="600" y2="630" stroke-width="1" /><line x1="750" y1="0" x2="750" y2="630" stroke-width="1" /><line x1="900" y1="0" x2="900" y2="630" stroke-width="1" /><line x1="1050" y1="0" x2="1050" y2="630" stroke-width="1" /><line x1="1200" y1="0" x2="1200" y2="630" stroke-width="1" />
+          <line x1="0" y1="126" x2="1200" y2="126" stroke-width="1" /><line x1="0" y1="252" x2="1200" y2="252" stroke-width="1" /><line x1="0" y1="378" x2="1200" y2="378" stroke-width="1" /><line x1="0" y1="504" x2="1200" y2="504" stroke-width="1" /><line x1="0" y1="630" x2="1200" y2="630" stroke-width="1" />
+        </g>
+    <text x="48" y="96" font-family="Georgia, Cambria, Times New Roman, serif" font-size="96" fill="#0F172A" opacity="0.28">"</text>
+    <text font-family="Georgia, Cambria, Times New Roman, serif" font-size="30" font-style="italic" fill="#0F172A" x="64" y="309"><tspan x="64" dy="0">&quot;Edge AI transforms factory floors from reactive to predictive,</tspan><tspan x="64" dy="36">turning data into action at the source.&quot;</tspan></text>
+    <line x1="48" y1="526" x2="168" y2="526" stroke="#7C3AED" stroke-width="4" />
+    <text x="48" y="562" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#64748B">— Engineering Lead, SmartTech Solutions</text>
+  
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Launch Your B2B SaaS in 90 Days—No VC, Just Vision">
+  <title>Launch Your B2B SaaS in 90 Days—No VC, Just Vision</title>
+  <desc>Bootstrapping a B2B SaaS in 90 days (variant 2)</desc>
+  
+    <rect width="100%" height="100%" fill="#F1F5F9" />
+    
+        <g opacity="0.12" stroke="#CBD5E1" id="motif-grid">
+          <line x1="150" y1="0" x2="150" y2="630" stroke-width="1" /><line x1="300" y1="0" x2="300" y2="630" stroke-width="1" /><line x1="450" y1="0" x2="450" y2="630" stroke-width="1" /><line x1="600" y1="0" x2="600" y2="630" stroke-width="1" /><line x1="750" y1="0" x2="750" y2="630" stroke-width="1" /><line x1="900" y1="0" x2="900" y2="630" stroke-width="1" /><line x1="1050" y1="0" x2="1050" y2="630" stroke-width="1" /><line x1="1200" y1="0" x2="1200" y2="630" stroke-width="1" />
+          <line x1="0" y1="126" x2="1200" y2="126" stroke-width="1" /><line x1="0" y1="252" x2="1200" y2="252" stroke-width="1" /><line x1="0" y1="378" x2="1200" y2="378" stroke-width="1" /><line x1="0" y1="504" x2="1200" y2="504" stroke-width="1" /><line x1="0" y1="630" x2="1200" y2="630" stroke-width="1" />
+        </g>
+    <rect x="32" y="546" width="176" height="44" rx="6" fill="#0F172A" />
+    <text x="120" y="576" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="17" font-weight="600" fill="#F1F5F9">Follow our proven roa…</text>
+    <text font-family="Georgia, Cambria, Times New Roman, serif" font-size="52" font-weight="700" fill="#0F172A" x="32" y="78.80000000000001"><tspan x="32" dy="0">Launch Your B2B SaaS in 90</tspan><tspan x="32" dy="58.2">Days—No VC, Just Vision</tspan></text>
+    <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" fill="#64748B" x="32" y="207.20000000000002"><tspan x="32" dy="0">From idea to revenue: a bootstrapped playbook that turns founders</tspan><tspan x="32" dy="28.2">into market leaders.</tspan></text>
+    <rect x="888" y="32" width="280" height="566" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+    <text x="908" y="76" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#7C3AED" font-weight="700" letter-spacing="1">BUSINESS</text>
+    <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#0F172A" x="908" y="110"><tspan x="908" dy="0">Bootstrapping a B2B</tspan><tspan x="908" dy="23">SaaS in 90 days</tspan><tspan x="908" dy="23">(variant 2)</tspan></text>
+  
+</svg>

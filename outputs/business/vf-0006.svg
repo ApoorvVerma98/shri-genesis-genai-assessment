@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Run Pricing Experiments While Keeping Churn Low">
+  <title>Run Pricing Experiments While Keeping Churn Low</title>
+  <desc>Pricing experiments without churn</desc>
+  
+    <rect width="100%" height="100%" fill="#F0F9FF" />
+    <rect x="0" y="0" width="1200" height="96" fill="#0369A1" />
+    <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="30" font-weight="700" fill="#E0F2FE" x="32" y="58"><tspan x="32" dy="0">Run Pricing Experiments While Keeping Churn Low</tspan></text>
+    
+        <rect x="32" y="112" width="558" height="156" rx="14" fill="#E0F2FE" stroke="#7DD3FC" stroke-width="2" />
+        <rect x="32" y="112" width="8" height="156" rx="4" fill="#F43F5E" />
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#0C4A6E" x="56" y="164"><tspan x="56" dy="0">Segment customers by price sensitivity</tspan></text>
+      
+        <rect x="610" y="112" width="558" height="156" rx="14" fill="#E0F2FE" stroke="#7DD3FC" stroke-width="2" />
+        <rect x="610" y="112" width="8" height="156" rx="4" fill="#F43F5E" />
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#0C4A6E" x="634" y="164"><tspan x="634" dy="0">Use A/B testing with controlled cohorts</tspan></text>
+      
+        <rect x="32" y="288" width="558" height="156" rx="14" fill="#E0F2FE" stroke="#7DD3FC" stroke-width="2" />
+        <rect x="32" y="288" width="8" height="156" rx="4" fill="#F43F5E" />
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#0C4A6E" x="56" y="340"><tspan x="56" dy="0">Monitor churn signals in real time</tspan></text>
+      
+        <rect x="610" y="288" width="558" height="156" rx="14" fill="#E0F2FE" stroke="#7DD3FC" stroke-width="2" />
+        <rect x="610" y="288" width="8" height="156" rx="4" fill="#F43F5E" />
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#0C4A6E" x="634" y="340"><tspan x="634" dy="0">Leverage dynamic pricing engines</tspan></text>
+      
+        <rect x="32" y="464" width="558" height="156" rx="14" fill="#E0F2FE" stroke="#7DD3FC" stroke-width="2" />
+        <rect x="32" y="464" width="8" height="156" rx="4" fill="#F43F5E" />
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#0C4A6E" x="56" y="516"><tspan x="56" dy="0">Communicate value changes clearly</tspan></text>
+      
+  
+</svg>

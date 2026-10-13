@@ -1,0 +1,10 @@
+{
+  "status": "failed",
+  "runId": "500ef818-1745-4211-bc10-53ac24d2fe45",
+  "collection": "assessment",
+  "requested": 100,
+  "startedAt": "2026-10-13T07:05:30.039Z",
+  "completedAt": "2026-10-13T07:21:13.423Z",
+  "error": "Assessment batch not promotable: 2 design(s) failed validation | vf-0055: validationStatus=failed | vf-0091: validationStatus=failed",
+  "message": "Assessment batch failed or was interrupted. Canonical collection was not promoted; prior manifest and SVGs remain active."
+}

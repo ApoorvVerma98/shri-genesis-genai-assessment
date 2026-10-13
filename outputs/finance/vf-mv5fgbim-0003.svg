@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Keep Your Cash Flow on Rhythm: A Simple Cadence for SMBs">
+  <title>Keep Your Cash Flow on Rhythm: A Simple Cadence for SMBs</title>
+  <desc>Small business cash flow cadence</desc>
+  
+    <rect width="100%" height="100%" fill="#1C1410" />
+    
+        <g opacity="0.2" id="motif-diagonal">
+          <path d="M0 630 L1200 0 L1200 220.5 L0 630" fill="#FB923C" />
+        </g>
+    <text font-family="Georgia, Cambria, Times New Roman, serif" font-size="40" font-weight="700" fill="#FFF7ED" x="32" y="72"><tspan x="32" dy="0">Keep Your Cash Flow on Rhythm: A Simple Cadence</tspan><tspan x="32" dy="51.2">for SMBs</tspan></text>
+    <text x="32" y="105.2" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#FDBA74">Track key cash metrics weekly to stay ahead of surprises and grow with confidence.</text>
+    
+        <rect x="32" y="158.4" width="558" height="148" rx="8" fill="#2A1F18" stroke="#5C4033" stroke-width="2.5" />
+        <text x="56" y="214.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="44" font-weight="700" fill="#FB923C">3‑5 days*</text>
+        <text x="56" y="250.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#FFF7ED">Accounts Receivable Turnover</text>
+        <text x="56" y="280.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#FDBA74">Average days to collect</text>
+      
+        <rect x="610" y="158.4" width="558" height="148" rx="8" fill="#2A1F18" stroke="#5C4033" stroke-width="2.5" />
+        <text x="634" y="214.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="44" font-weight="700" fill="#FB923C">4‑6 weeks*</text>
+        <text x="634" y="250.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#FFF7ED">Inventory Turnover</text>
+        <text x="634" y="280.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#FDBA74">How often stock cycles</text>
+      
+        <rect x="32" y="326.4" width="558" height="148" rx="8" fill="#2A1F18" stroke="#5C4033" stroke-width="2.5" />
+        <text x="56" y="382.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="44" font-weight="700" fill="#FB923C">Positive*</text>
+        <text x="56" y="418.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#FFF7ED">Operating Cash Flow</text>
+        <text x="56" y="448.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#FDBA74">Weekly surplus indicates healthy cycle</text>
+      
+        <rect x="610" y="326.4" width="558" height="148" rx="8" fill="#2A1F18" stroke="#5C4033" stroke-width="2.5" />
+        <text x="634" y="382.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="44" font-weight="700" fill="#FB923C">2‑4 weeks*</text>
+        <text x="634" y="418.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#FFF7ED">Cash Conversion Cycle</text>
+        <text x="634" y="448.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#FDBA74">Time from cash out to cash in</text>
+      
+    <text x="32" y="598" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="12" fill="#FDBA74">* Illustrative metrics unless sourced</text>
+  
+</svg>

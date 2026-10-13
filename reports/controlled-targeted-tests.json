@@ -1,0 +1,42 @@
+{
+  "purpose": "Phase E preflight — controlled targeted generation (2 designs)",
+  "runAt": "2026-10-12T18:21:22.208Z",
+  "aiProvider": "openai-compatible",
+  "aiConfigured": true,
+  "aiModel": "openai/gpt-oss-20b",
+  "assessmentManifest": {
+    "path": "E:\\svg-generation assesment\\outputs\\assessment\\manifest.json",
+    "sha256Before": "a1d4ddad256147fd7eac6f95c9bd51f955f1900555d9912a0b1b10ed60a45901",
+    "sha256After": "a1d4ddad256147fd7eac6f95c9bd51f955f1900555d9912a0b1b10ed60a45901",
+    "unchanged": true,
+    "mtimeBefore": "2026-10-12T15:49:03.255Z",
+    "mtimeAfter": "2026-10-12T15:49:03.255Z"
+  },
+  "targetedRun": {
+    "batchRunId": "mv5kvxg5",
+    "manifestPath": "E:\\svg-generation assesment\\outputs\\runs\\mv5kvxg5\\manifest.json",
+    "requested": 2
+  },
+  "designs": [
+    {
+      "id": "vf-mv5kvxg5-0001",
+      "category": "technology",
+      "layoutFamily": "promotional-banner",
+      "aiAttempted": true,
+      "contentMode": "ai",
+      "validationStatus": "passed",
+      "validationIssues": [],
+      "outputPath": "technology/vf-mv5kvxg5-0001.svg"
+    },
+    {
+      "id": "vf-mv5kvxg5-0002",
+      "category": "finance",
+      "layoutFamily": "metrics-dashboard",
+      "aiAttempted": true,
+      "contentMode": "ai",
+      "validationStatus": "passed",
+      "validationIssues": [],
+      "outputPath": "finance/vf-mv5kvxg5-0002.svg"
+    }
+  ]
+}

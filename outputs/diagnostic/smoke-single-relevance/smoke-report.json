@@ -1,0 +1,59 @@
+{
+  "runAt": "2026-10-13T10:02:29.919Z",
+  "results": [
+    {
+      "case": "A-healthcare-quote",
+      "seed": {
+        "category": "healthcare",
+        "layoutFamily": "quote-banner",
+        "topic": "Encourage patients to follow prescribed medication schedules."
+      },
+      "contentMode": "ai",
+      "aiAttempted": true,
+      "validationStatus": "passed",
+      "validationIssues": [],
+      "headline": "Adherence Starts with a Simple Promise",
+      "outputPath": "healthcare/smoke-A-healthcare-quote.svg",
+      "absolutePath": "E:\\svg-generation assesment\\outputs\\diagnostic\\smoke-single-relevance\\healthcare\\smoke-A-healthcare-quote.svg",
+      "structuralPassed": true,
+      "truncationIssues": [],
+      "svgSnippet": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1200\" height=\"630\" viewBox=\"0 0 1200 630\" role=\"img\" aria-label=\"Adherence Starts with a Simple Promise\"> <title>Adherence Starts with a Simple Promise</title> <desc>Encourage patients to follow prescribed medication schedules.</desc> <rect width=\"100%\" height=\"100%\" fill=\"#0B1220\" /> <g opacity=\"0.4\" id=\"motif-n"
+    },
+    {
+      "case": "B-real-estate-steps",
+      "seed": {
+        "category": "real-estate",
+        "layoutFamily": "step-by-step",
+        "topic": "Explain the steps first-time buyers should take before purchasing a home."
+      },
+      "contentMode": "ai",
+      "aiAttempted": true,
+      "validationStatus": "passed",
+      "validationIssues": [],
+      "headline": "Your First Home Journey: A Step-by-Step Guide",
+      "outputPath": "real-estate/smoke-B-real-estate-steps.svg",
+      "absolutePath": "E:\\svg-generation assesment\\outputs\\diagnostic\\smoke-single-relevance\\real-estate\\smoke-B-real-estate-steps.svg",
+      "structuralPassed": true,
+      "truncationIssues": [],
+      "svgSnippet": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1200\" height=\"630\" viewBox=\"0 0 1200 630\" role=\"img\" aria-label=\"Your First Home Journey: A Step-by-Step Guide\"> <title>Your First Home Journey: A Step-by-Step Guide</title> <desc>Explain the steps first-time buyers should take before purchasing a home.</desc> <rect width=\"100%\" height=\"100%\" fill=\"#0B1220\" /> <t"
+    },
+    {
+      "case": "C-ecommerce-metrics",
+      "seed": {
+        "category": "ecommerce",
+        "layoutFamily": "metrics-dashboard",
+        "topic": "Show store owners which operational metrics help them monitor checkout performance."
+      },
+      "contentMode": "ai",
+      "aiAttempted": true,
+      "validationStatus": "passed",
+      "validationIssues": [],
+      "headline": "Track Checkout Performance with Key Operational Metrics",
+      "outputPath": "ecommerce/smoke-C-ecommerce-metrics.svg",
+      "absolutePath": "E:\\svg-generation assesment\\outputs\\diagnostic\\smoke-single-relevance\\ecommerce\\smoke-C-ecommerce-metrics.svg",
+      "structuralPassed": true,
+      "truncationIssues": [],
+      "svgSnippet": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1200\" height=\"630\" viewBox=\"0 0 1200 630\" role=\"img\" aria-label=\"Track Checkout Performance with Key Operational Metrics\"> <title>Track Checkout Performance with Key Operational Metrics</title> <desc>Show store owners which operational metrics help them monitor checkout performance.</desc> <rect width=\"100%\" heig"
+    }
+  ]
+}

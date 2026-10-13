@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Edge AI: Accelerating Smart Factory Healthcare Solutions">
+  <title>Edge AI: Accelerating Smart Factory Healthcare Solutions</title>
+  <desc>Edge AI for smart factories</desc>
+  
+    <rect width="100%" height="100%" fill="#0B1220" />
+    <text font-family="Georgia, Cambria, Times New Roman, serif" font-size="40" font-weight="700" fill="#F8FAFC" x="32" y="72"><tspan x="32" dy="0">Edge AI: Accelerating Smart Factory Healthcare</tspan><tspan x="32" dy="51.2">Solutions</tspan></text>
+    <rect x="32" y="111.2" width="552" height="486.79999999999995" rx="12" fill="#141C2F" stroke="#22D3EE" stroke-width="3" />
+    <rect x="616" y="111.2" width="552" height="486.79999999999995" rx="12" fill="#141C2F" stroke="#6366F1" stroke-width="3" />
+    <text x="308" y="155.2" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="30" font-weight="700" fill="#22D3EE">Traditional Cloud‑Based AI</text>
+    <text x="892" y="155.2" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="30" font-weight="700" fill="#6366F1">Edge AI on Factory Floor</text>
+    
+      <circle cx="60" cy="199.2" r="6" fill="#22D3EE" />
+      <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#F8FAFC" x="80" y="205.2"><tspan x="80" dy="0">High latency due to cloud transmission</tspan></text>
+    
+      <circle cx="60" cy="251.2" r="6" fill="#22D3EE" />
+      <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#F8FAFC" x="80" y="257.2"><tspan x="80" dy="0">Bandwidth constraints during peak production</tspan></text>
+    
+      <circle cx="60" cy="303.2" r="6" fill="#22D3EE" />
+      <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#F8FAFC" x="80" y="309.2"><tspan x="80" dy="0">Potential for data loss in transit</tspan></text>
+    
+    
+      <circle cx="644" cy="199.2" r="6" fill="#6366F1" />
+      <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#F8FAFC" x="664" y="205.2"><tspan x="664" dy="0">Complex data residency regulations</tspan></text>
+    
+      <circle cx="644" cy="251.2" r="6" fill="#6366F1" />
+      <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#F8FAFC" x="664" y="257.2"><tspan x="664" dy="0">Centralized logs increase audit burden</tspan></text>
+    
+      <circle cx="644" cy="303.2" r="6" fill="#6366F1" />
+      <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#F8FAFC" x="664" y="309.2"><tspan x="664" dy="0">Risk of non‑compliance in cross‑border transfers</tspan></text>
+    
+  
+</svg>

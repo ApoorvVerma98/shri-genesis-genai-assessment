@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Inside Incident response tabletop drills (variant 3) · v3">
+  <title>Inside Incident response tabletop drills (variant 3) · v3</title>
+  <desc>Incident response tabletop drills (variant 3)</desc>
+  
+    <rect width="100%" height="100%" fill="#1C1410" />
+    <text font-family="Georgia, Cambria, Times New Roman, serif" font-size="40" font-weight="700" fill="#FFF7ED" x="32" y="72"><tspan x="32" dy="0">Inside Incident response tabletop drills (variant</tspan><tspan x="32" dy="51.2">3) · v3</tspan></text>
+    <line x1="32" y1="119.2" x2="1168" y2="119.2" stroke="#5C4033" stroke-width="2" />
+    <g transform="translate(0, 143.2)">
+      
+          <rect x="32" y="0" width="275" height="430.8" rx="8" fill="#2A1F18" stroke="#FB923C" stroke-width="3" />
+          <circle cx="169.5" cy="40" r="24" fill="#FB923C" />
+          <text x="169.5" y="48" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#1C1410">1</text>
+          <text x="48" y="92" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#FFF7ED">Frame</text>
+          <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#FDBA74" x="48" y="124"><tspan x="48" dy="0">Clarify why Incident</tspan><tspan x="48" dy="23">response tabletop drills</tspan><tspan x="48" dy="23">(variant 3) matters for</tspan><tspan x="48" dy="23">SOC teams.</tspan></text>
+        
+          <rect x="319" y="0" width="275" height="430.8" rx="8" fill="#2A1F18" stroke="#FB923C" stroke-width="2.5" />
+          <circle cx="456.5" cy="40" r="24" fill="#FB923C" />
+          <text x="456.5" y="48" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#1C1410">2</text>
+          <text x="335" y="92" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#FFF7ED">Plan</text>
+          <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#FDBA74" x="335" y="124"><tspan x="335" dy="0">List constraints,</tspan><tspan x="335" dy="23">owners, and success</tspan><tspan x="335" dy="23">signals for</tspan><tspan x="335" dy="23">cybersecurity.</tspan></text>
+        
+          <rect x="606" y="0" width="275" height="430.8" rx="8" fill="#2A1F18" stroke="#FB923C" stroke-width="2.5" />
+          <circle cx="743.5" cy="40" r="24" fill="#FB923C" />
+          <text x="743.5" y="48" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#1C1410">3</text>
+          <text x="622" y="92" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#FFF7ED">Pilot</text>
+          <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#FDBA74" x="622" y="124"><tspan x="622" dy="0">Run a small experiment</tspan><tspan x="622" dy="23">tied to incident</tspan><tspan x="622" dy="23">response tabletop drills</tspan><tspan x="622" dy="23">(variant 3).</tspan></text>
+        
+          <rect x="893" y="0" width="275" height="430.8" rx="8" fill="#2A1F18" stroke="#FB923C" stroke-width="2.5" />
+          <circle cx="1030.5" cy="40" r="24" fill="#FB923C" />
+          <text x="1030.5" y="48" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#1C1410">4</text>
+          <text x="909" y="92" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#FFF7ED">Scale</text>
+          <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#FDBA74" x="909" y="124"><tspan x="909" dy="0">Document learnings and</tspan><tspan x="909" dy="23">expand only what proved</tspan><tspan x="909" dy="23">useful.</tspan></text>
+        
+    </g>
+  
+</svg>

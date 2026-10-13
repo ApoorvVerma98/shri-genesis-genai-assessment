@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Your First Home: A Simple 5‑Step Path to Ownership">
+  <title>Your First Home: A Simple 5‑Step Path to Ownership</title>
+  <desc>a first-time homebuyer brief.</desc>
+  
+    <rect width="100%" height="100%" fill="#0B1220" />
+    <text font-family="Georgia, Cambria, Times New Roman, serif" font-size="40" font-weight="700" fill="#F8FAFC" x="32" y="72"><tspan x="32" dy="0">Your First Home: A Simple 5‑Step Path to Ownership</tspan></text>
+    <line x1="32" y1="119.2" x2="1168" y2="119.2" stroke="#334155" stroke-width="2" />
+    <g transform="translate(0, 143.2)">
+      
+          <rect x="32" y="0" width="275" height="430.8" rx="12" fill="#141C2F" stroke="#22D3EE" stroke-width="3" />
+          <circle cx="169.5" cy="40" r="24" fill="#22D3EE" />
+          <text x="169.5" y="48" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#0B1220">1</text>
+          <text x="48" y="92" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#F8FAFC">Build a Budget</text>
+          <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#94A3B8" x="48" y="124"><tspan x="48" dy="0">Track your income,</tspan><tspan x="48" dy="23">expenses, and savings</tspan><tspan x="48" dy="23">goals to know how much</tspan><tspan x="48" dy="23">you can afford.</tspan></text>
+        
+          <rect x="319" y="0" width="275" height="430.8" rx="12" fill="#141C2F" stroke="#22D3EE" stroke-width="2" />
+          <circle cx="456.5" cy="40" r="24" fill="#22D3EE" />
+          <text x="456.5" y="48" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#0B1220">2</text>
+          <text x="335" y="92" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#F8FAFC">Get Pre‑Approved</text>
+          <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#94A3B8" x="335" y="124"><tspan x="335" dy="0">Secure a mortgage</tspan><tspan x="335" dy="23">pre‑approval to show</tspan><tspan x="335" dy="23">sellers you’re serious</tspan><tspan x="335" dy="23">and strengthen your</tspan><tspan x="335" dy="23">offer.</tspan></text>
+        
+          <rect x="606" y="0" width="275" height="430.8" rx="12" fill="#141C2F" stroke="#22D3EE" stroke-width="2" />
+          <circle cx="743.5" cy="40" r="24" fill="#22D3EE" />
+          <text x="743.5" y="48" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#0B1220">3</text>
+          <text x="622" y="92" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#F8FAFC">Find a Trusted Agent</text>
+          <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#94A3B8" x="622" y="124"><tspan x="622" dy="0">Partner with a local</tspan><tspan x="622" dy="23">realtor who knows the</tspan><tspan x="622" dy="23">market and can guide you</tspan><tspan x="622" dy="23">through every detail.</tspan></text>
+        
+          <rect x="893" y="0" width="275" height="430.8" rx="12" fill="#141C2F" stroke="#22D3EE" stroke-width="2" />
+          <circle cx="1030.5" cy="40" r="24" fill="#22D3EE" />
+          <text x="1030.5" y="48" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#0B1220">4</text>
+          <text x="909" y="92" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#F8FAFC">Make an Offer &amp; Negotiate</text>
+          <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#94A3B8" x="909" y="124"><tspan x="909" dy="0">Submit a competitive</tspan><tspan x="909" dy="23">offer and negotiate</tspan><tspan x="909" dy="23">terms that protect your</tspan><tspan x="909" dy="23">interests.</tspan></text>
+        
+    </g>
+  
+</svg>

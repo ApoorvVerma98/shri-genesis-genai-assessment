@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Decoding ESG Fund Labels: A Clear Guide for Investors">
+  <title>Decoding ESG Fund Labels: A Clear Guide for Investors</title>
+  <desc>Understanding ESG fund labels (variant 2)</desc>
+  
+    <rect width="100%" height="100%" fill="#0F1A14" />
+    <text font-family="Georgia, Cambria, Times New Roman, serif" font-size="40" font-weight="700" fill="#ECFDF5" x="32" y="72"><tspan x="32" dy="0">Decoding ESG Fund Labels: A Clear Guide for</tspan><tspan x="32" dy="51.2">Investors</tspan></text>
+    <line x1="32" y1="119.2" x2="1168" y2="119.2" stroke="#3F5E4F" stroke-width="2" />
+    <g transform="translate(0, 143.2)">
+      
+          <rect x="32" y="0" width="275" height="430.8" rx="16" fill="#1A2B22" stroke="#4ADE80" stroke-width="3" />
+          <circle cx="169.5" cy="40" r="24" fill="#4ADE80" />
+          <text x="169.5" y="48" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#0F1A14">1</text>
+          <text x="48" y="92" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#ECFDF5">1. Identify the Label Source</text>
+          <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#86EFAC" x="48" y="124"><tspan x="48" dy="0">Determine which agency</tspan><tspan x="48" dy="23">issued the ESG</tspan><tspan x="48" dy="23">rating—common ones</tspan><tspan x="48" dy="23">include MSCI,</tspan><tspan x="48" dy="23">Sustainalytics, and</tspan></text>
+        
+          <rect x="319" y="0" width="275" height="430.8" rx="16" fill="#1A2B22" stroke="#4ADE80" stroke-width="2" />
+          <circle cx="456.5" cy="40" r="24" fill="#4ADE80" />
+          <text x="456.5" y="48" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#0F1A14">2</text>
+          <text x="335" y="92" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#ECFDF5">2. Understand the Rating Scale</text>
+          <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#86EFAC" x="335" y="124"><tspan x="335" dy="0">Review the scale (e.g.,</tspan><tspan x="335" dy="23">0-5 stars, 0-100 points)</tspan><tspan x="335" dy="23">and what each level</tspan><tspan x="335" dy="23">signifies in terms of</tspan><tspan x="335" dy="23">ESG performance.</tspan></text>
+        
+          <rect x="606" y="0" width="275" height="430.8" rx="16" fill="#1A2B22" stroke="#4ADE80" stroke-width="2" />
+          <circle cx="743.5" cy="40" r="24" fill="#4ADE80" />
+          <text x="743.5" y="48" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#0F1A14">3</text>
+          <text x="622" y="92" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#ECFDF5">3. Compare Criteria Across Agencies</text>
+          <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#86EFAC" x="622" y="124"><tspan x="622" dy="0">Check the weightings for</tspan><tspan x="622" dy="23">environmental, social,</tspan><tspan x="622" dy="23">and governance factors;</tspan><tspan x="622" dy="23">note any differences in</tspan><tspan x="622" dy="23">data sources or time ho…</tspan></text>
+        
+          <rect x="893" y="0" width="275" height="430.8" rx="16" fill="#1A2B22" stroke="#4ADE80" stroke-width="2" />
+          <circle cx="1030.5" cy="40" r="24" fill="#4ADE80" />
+          <text x="1030.5" y="48" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#0F1A14">4</text>
+          <text x="909" y="92" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#ECFDF5">4. Integrate ESG Scores into Portfolio Decisions</text>
+          <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#86EFAC" x="909" y="124"><tspan x="909" dy="0">Use the label as a</tspan><tspan x="909" dy="23">starting point, then</tspan><tspan x="909" dy="23">dive into the underlying</tspan><tspan x="909" dy="23">metrics to confirm</tspan><tspan x="909" dy="23">alignment with your</tspan></text>
+        
+    </g>
+  
+</svg>

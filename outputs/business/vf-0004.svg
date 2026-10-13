@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Bootstrap Your B2B SaaS to Profit in 90 Days">
+  <title>Bootstrap Your B2B SaaS to Profit in 90 Days</title>
+  <desc>Bootstrapping a B2B SaaS in 90 days</desc>
+  
+    <rect width="100%" height="100%" fill="#F1F5F9" />
+    <text font-family="Georgia, Cambria, Times New Roman, serif" font-size="40" font-weight="700" fill="#0F172A" x="32" y="72"><tspan x="32" dy="0">Bootstrap Your B2B SaaS to Profit in 90 Days</tspan></text>
+    <line x1="32" y1="119.2" x2="1168" y2="119.2" stroke="#CBD5E1" stroke-width="2" />
+    <g transform="translate(0, 143.2)">
+      
+          <rect x="32" y="0" width="275" height="430.8" rx="6" fill="#FFFFFF" stroke="#0F172A" stroke-width="3" />
+          <circle cx="169.5" cy="40" r="24" fill="#0F172A" />
+          <text x="169.5" y="48" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#F1F5F9">1</text>
+          <text x="48" y="92" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#0F172A">Validate the Problem</text>
+          <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#64748B" x="48" y="124"><tspan x="48" dy="0">Interview target buyers,</tspan><tspan x="48" dy="23">confirm pain points, and</tspan><tspan x="48" dy="23">test a minimal landing</tspan><tspan x="48" dy="23">page.</tspan></text>
+        
+          <rect x="319" y="0" width="275" height="430.8" rx="6" fill="#FFFFFF" stroke="#0F172A" stroke-width="1.5" />
+          <circle cx="456.5" cy="40" r="24" fill="#0F172A" />
+          <text x="456.5" y="48" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#F1F5F9">2</text>
+          <text x="335" y="92" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#0F172A">Build the MVP with No‑Code</text>
+          <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#64748B" x="335" y="124"><tspan x="335" dy="0">Leverage low‑cost tools</tspan><tspan x="335" dy="23">to launch core features</tspan><tspan x="335" dy="23">quickly.</tspan></text>
+        
+          <rect x="606" y="0" width="275" height="430.8" rx="6" fill="#FFFFFF" stroke="#0F172A" stroke-width="1.5" />
+          <circle cx="743.5" cy="40" r="24" fill="#0F172A" />
+          <text x="743.5" y="48" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#F1F5F9">3</text>
+          <text x="622" y="92" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#0F172A">Acquire Early Adopters</text>
+          <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#64748B" x="622" y="124"><tspan x="622" dy="0">Offer free trials,</tspan><tspan x="622" dy="23">gather feedback, and</tspan><tspan x="622" dy="23">iterate.</tspan></text>
+        
+          <rect x="893" y="0" width="275" height="430.8" rx="6" fill="#FFFFFF" stroke="#0F172A" stroke-width="1.5" />
+          <circle cx="1030.5" cy="40" r="24" fill="#0F172A" />
+          <text x="1030.5" y="48" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#F1F5F9">4</text>
+          <text x="909" y="92" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#0F172A">Scale with Data‑Driven Pricing</text>
+          <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#64748B" x="909" y="124"><tspan x="909" dy="0">Use usage metrics to set</tspan><tspan x="909" dy="23">tiered plans that</tspan><tspan x="909" dy="23">convert churn into</tspan><tspan x="909" dy="23">growth.</tspan></text>
+        
+    </g>
+  
+</svg>

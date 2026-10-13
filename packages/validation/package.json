@@ -1,0 +1,21 @@
+{
+  "name": "@vector-forge/validation",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "dependencies": {
+    "@vector-forge/shared": "1.0.0",
+    "fast-xml-parser": "^4.5.1"
+  },
+  "devDependencies": {
+    "@vector-forge/svg-engine": "1.0.0",
+    "typescript": "^5.7.3"
+  }
+}

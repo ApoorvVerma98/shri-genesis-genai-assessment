@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Meeting Hygiene: A Quick Checklist for Managers">
+  <title>Meeting Hygiene: A Quick Checklist for Managers</title>
+  <desc>Meeting hygiene checklist</desc>
+  
+    <rect width="100%" height="100%" fill="#1A0B1F" />
+    <rect x="0" y="0" width="1200" height="128" fill="#2A1233" />
+    <g transform="translate(32,40)"><rect x="6" y="6" width="36" height="36" rx="10" fill="none" stroke="#E879F9" stroke-width="3"/><circle cx="24" cy="24" r="8" fill="#E879F9"/></g>
+    <text font-family="Georgia, Cambria, Times New Roman, serif" font-size="40" font-weight="700" fill="#FAF5FF" x="104" y="78"><tspan x="104" dy="0">Meeting Hygiene: A Quick Checklist for Managers</tspan></text>
+    <text x="1168" y="78" text-anchor="end" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#D8B4FE">infographic</text>
+    <rect x="32" y="156" width="552" height="444" rx="20" fill="#2A1233" stroke="#581C87" stroke-width="2" />
+    <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#FAF5FF" x="56" y="196"><tspan x="56" dy="0"></tspan></text>
+    <g transform="translate(616, 156)">
+      
+        <rect y="0" width="552" height="96" rx="20" fill="#1A0B1F" stroke="#E879F9" stroke-width="2" />
+        <text x="20" y="38" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#E879F9">1</text>
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#FAF5FF" x="48" y="38"><tspan x="48" dy="0">Define a clear agenda before the call</tspan></text>
+      
+        <rect y="108" width="552" height="96" rx="20" fill="#1A0B1F" stroke="#E879F9" stroke-width="2" />
+        <text x="20" y="146" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#E879F9">2</text>
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#FAF5FF" x="48" y="146"><tspan x="48" dy="0">Limit attendees to those essential</tspan></text>
+      
+        <rect y="216" width="552" height="96" rx="20" fill="#1A0B1F" stroke="#E879F9" stroke-width="2" />
+        <text x="20" y="254" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#E879F9">3</text>
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#FAF5FF" x="48" y="254"><tspan x="48" dy="0">Start on time and end on schedule</tspan></text>
+      
+        <rect y="324" width="552" height="96" rx="20" fill="#1A0B1F" stroke="#E879F9" stroke-width="2" />
+        <text x="20" y="362" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#E879F9">4</text>
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#FAF5FF" x="48" y="362"><tspan x="48" dy="0">Encourage active participation and decision</tspan><tspan x="48" dy="23">ownership</tspan></text>
+      
+    </g>
+  
+</svg>

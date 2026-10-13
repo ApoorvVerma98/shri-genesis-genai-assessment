@@ -1,0 +1,271 @@
+{
+  "collection": "assessment",
+  "totalEntries": 100,
+  "ai": 0,
+  "fallback": 0,
+  "unknown": 100,
+  "hybrid": 0,
+  "validationPassed": 100,
+  "validationFailed": 0,
+  "categories": [
+    {
+      "category": "business",
+      "planned": 9,
+      "actual": 9,
+      "ai": 0,
+      "fallback": 0,
+      "unknown": 9,
+      "validationFailed": 0,
+      "sampleIds": [
+        "vf-0004",
+        "vf-0005",
+        "vf-0006"
+      ]
+    },
+    {
+      "category": "cybersecurity",
+      "planned": 9,
+      "actual": 9,
+      "ai": 0,
+      "fallback": 0,
+      "unknown": 9,
+      "validationFailed": 0,
+      "sampleIds": [
+        "vf-0019",
+        "vf-0020",
+        "vf-0021"
+      ]
+    },
+    {
+      "category": "ecommerce",
+      "planned": 9,
+      "actual": 9,
+      "ai": 0,
+      "fallback": 0,
+      "unknown": 9,
+      "validationFailed": 0,
+      "sampleIds": [
+        "vf-0025",
+        "vf-0026",
+        "vf-0027"
+      ]
+    },
+    {
+      "category": "education",
+      "planned": 9,
+      "actual": 9,
+      "ai": 0,
+      "fallback": 0,
+      "unknown": 9,
+      "validationFailed": 0,
+      "sampleIds": [
+        "vf-0007",
+        "vf-0008",
+        "vf-0009"
+      ]
+    },
+    {
+      "category": "finance",
+      "planned": 9,
+      "actual": 9,
+      "ai": 0,
+      "fallback": 0,
+      "unknown": 9,
+      "validationFailed": 0,
+      "sampleIds": [
+        "vf-0013",
+        "vf-0014",
+        "vf-0015"
+      ]
+    },
+    {
+      "category": "healthcare",
+      "planned": 9,
+      "actual": 9,
+      "ai": 0,
+      "fallback": 0,
+      "unknown": 9,
+      "validationFailed": 0,
+      "sampleIds": [
+        "vf-0010",
+        "vf-0011",
+        "vf-0012"
+      ]
+    },
+    {
+      "category": "marketing",
+      "planned": 9,
+      "actual": 9,
+      "ai": 0,
+      "fallback": 0,
+      "unknown": 9,
+      "validationFailed": 0,
+      "sampleIds": [
+        "vf-0016",
+        "vf-0017",
+        "vf-0018"
+      ]
+    },
+    {
+      "category": "productivity",
+      "planned": 7,
+      "actual": 7,
+      "ai": 0,
+      "fallback": 0,
+      "unknown": 7,
+      "validationFailed": 0,
+      "sampleIds": [
+        "vf-0028",
+        "vf-0029",
+        "vf-0030"
+      ]
+    },
+    {
+      "category": "real-estate",
+      "planned": 6,
+      "actual": 6,
+      "ai": 0,
+      "fallback": 0,
+      "unknown": 6,
+      "validationFailed": 0,
+      "sampleIds": [
+        "vf-0034",
+        "vf-0035",
+        "vf-0036"
+      ]
+    },
+    {
+      "category": "social-awareness",
+      "planned": 6,
+      "actual": 6,
+      "ai": 0,
+      "fallback": 0,
+      "unknown": 6,
+      "validationFailed": 0,
+      "sampleIds": [
+        "vf-0031",
+        "vf-0032",
+        "vf-0033"
+      ]
+    },
+    {
+      "category": "sustainability",
+      "planned": 9,
+      "actual": 9,
+      "ai": 0,
+      "fallback": 0,
+      "unknown": 9,
+      "validationFailed": 0,
+      "sampleIds": [
+        "vf-0022",
+        "vf-0023",
+        "vf-0024"
+      ]
+    },
+    {
+      "category": "technology",
+      "planned": 9,
+      "actual": 9,
+      "ai": 0,
+      "fallback": 0,
+      "unknown": 9,
+      "validationFailed": 0,
+      "sampleIds": [
+        "vf-0001",
+        "vf-0002",
+        "vf-0003"
+      ]
+    }
+  ],
+  "layouts": [
+    {
+      "layoutFamily": "comparison",
+      "actual": 14,
+      "ai": 0,
+      "fallback": 0,
+      "unknown": 14,
+      "sampleIds": [
+        "vf-0005",
+        "vf-0009"
+      ]
+    },
+    {
+      "layoutFamily": "editorial-infographic",
+      "actual": 11,
+      "ai": 0,
+      "fallback": 0,
+      "unknown": 11,
+      "sampleIds": [
+        "vf-0002",
+        "vf-0016"
+      ]
+    },
+    {
+      "layoutFamily": "feature-grid",
+      "actual": 12,
+      "ai": 0,
+      "fallback": 0,
+      "unknown": 12,
+      "sampleIds": [
+        "vf-0006",
+        "vf-0012"
+      ]
+    },
+    {
+      "layoutFamily": "list-announcement",
+      "actual": 10,
+      "ai": 0,
+      "fallback": 0,
+      "unknown": 10,
+      "sampleIds": [
+        "vf-0008",
+        "vf-0011"
+      ]
+    },
+    {
+      "layoutFamily": "metrics-dashboard",
+      "actual": 13,
+      "ai": 0,
+      "fallback": 0,
+      "unknown": 13,
+      "sampleIds": [
+        "vf-0003",
+        "vf-0019"
+      ]
+    },
+    {
+      "layoutFamily": "promotional-banner",
+      "actual": 14,
+      "ai": 0,
+      "fallback": 0,
+      "unknown": 14,
+      "sampleIds": [
+        "vf-0001",
+        "vf-0017"
+      ]
+    },
+    {
+      "layoutFamily": "quote-banner",
+      "actual": 17,
+      "ai": 0,
+      "fallback": 0,
+      "unknown": 17,
+      "sampleIds": [
+        "vf-0007",
+        "vf-0013"
+      ]
+    },
+    {
+      "layoutFamily": "step-by-step",
+      "actual": 9,
+      "ai": 0,
+      "fallback": 0,
+      "unknown": 9,
+      "sampleIds": [
+        "vf-0004",
+        "vf-0029"
+      ]
+    }
+  ],
+  "generatedAt": "2026-10-12T16:03:21.634Z"
+}

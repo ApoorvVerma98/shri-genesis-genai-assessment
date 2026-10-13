@@ -1,0 +1,102 @@
+{
+  "collection": "targeted",
+  "batchRunId": "mv5fgbim",
+  "requested": 3,
+  "attempted": 3,
+  "generated": 3,
+  "validationPassed": 3,
+  "validationFailed": 0,
+  "failed": 0,
+  "aiGenerated": 3,
+  "fallbackGenerated": 0,
+  "aiAttempted": 3,
+  "aiFailedThenFallback": 0,
+  "batchConfig": {
+    "seed": 99,
+    "segments": [
+      {
+        "category": "technology",
+        "layoutFamily": "promotional-banner",
+        "count": 1
+      },
+      {
+        "category": "education",
+        "layoutFamily": "editorial-infographic",
+        "count": 1
+      },
+      {
+        "category": "finance",
+        "layoutFamily": "metrics-dashboard",
+        "count": 1
+      }
+    ]
+  },
+  "startedAt": "2026-10-12T15:49:09.070Z",
+  "completedAt": "2026-10-12T15:49:13.271Z",
+  "totalDurationMs": 4200,
+  "entries": [
+    {
+      "id": "vf-mv5fgbim-0001",
+      "category": "technology",
+      "topic": "Open-source observability stacks",
+      "designType": "banner",
+      "layoutFamily": "promotional-banner",
+      "paletteId": "midnight-cyan",
+      "styleId": "tech-pulse",
+      "outputPath": "technology/vf-mv5fgbim-0001.svg",
+      "contentMode": "ai",
+      "aiProvider": "openai-compatible",
+      "aiModel": "openai/gpt-oss-20b",
+      "aiAttempted": true,
+      "headline": "Unleash End-to-End Observability with Open-Source Stacks",
+      "generatedAt": "2026-10-12T15:49:10.393Z",
+      "durationMs": 1322,
+      "validationStatus": "passed",
+      "validationIssues": [],
+      "contentHash": "c1edb6c4b1032b27bab91c5f4586b5ad59d17456474f1e1901dea7f8f0315aac",
+      "structureHash": "fecb91c1d45da0e45ed4e2a52255454b50694dd8ba87d37004e4b8a3801b20c5"
+    },
+    {
+      "id": "vf-mv5fgbim-0002",
+      "category": "education",
+      "topic": "Active learning in hybrid classrooms",
+      "designType": "infographic",
+      "layoutFamily": "editorial-infographic",
+      "paletteId": "forest-sage",
+      "styleId": "eco-growth",
+      "outputPath": "education/vf-mv5fgbim-0002.svg",
+      "contentMode": "ai",
+      "aiProvider": "openai-compatible",
+      "aiModel": "openai/gpt-oss-20b",
+      "aiAttempted": true,
+      "headline": "Ignite Engagement: Active Learning Strategies for Hybrid Classrooms",
+      "generatedAt": "2026-10-12T15:49:11.979Z",
+      "durationMs": 1586,
+      "validationStatus": "passed",
+      "validationIssues": [],
+      "contentHash": "44614c56b1f16d97ce333c5765b7b7d2de04f1bd514743b884ef94667f80a254",
+      "structureHash": "b434754c255ed099cd695206faa417551d01fb470a49d8be4830981c5b757863"
+    },
+    {
+      "id": "vf-mv5fgbim-0003",
+      "category": "finance",
+      "topic": "Small business cash flow cadence",
+      "designType": "infographic",
+      "layoutFamily": "metrics-dashboard",
+      "paletteId": "sunrise-warm",
+      "styleId": "launch-energy",
+      "outputPath": "finance/vf-mv5fgbim-0003.svg",
+      "contentMode": "ai",
+      "aiProvider": "openai-compatible",
+      "aiModel": "openai/gpt-oss-20b",
+      "aiAttempted": true,
+      "headline": "Keep Your Cash Flow on Rhythm: A Simple Cadence for SMBs",
+      "generatedAt": "2026-10-12T15:49:13.270Z",
+      "durationMs": 1291,
+      "validationStatus": "passed",
+      "validationIssues": [],
+      "contentHash": "e55d9648643608121c1b7ec5f9c044a58c10dd2996efa5747a7dc211032f88b2",
+      "structureHash": "25188a93abdace1cd606f662f688f2c24f5c398fca9d03a8498320f253c024c9"
+    }
+  ]
+}

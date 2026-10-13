@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Content repurposing across channels (variant 3): essentials · v3">
+  <title>Content repurposing across channels (variant 3): essentials · v3</title>
+  <desc>Content repurposing across channels (variant 3)</desc>
+  
+    <rect width="100%" height="100%" fill="#F1F5F9" />
+    <rect x="0" y="0" width="1200" height="128" fill="#FFFFFF" />
+    <g transform="translate(32,40)"><rect x="6" y="6" width="36" height="36" rx="10" fill="none" stroke="#0F172A" stroke-width="3"/><circle cx="24" cy="24" r="8" fill="#0F172A"/></g>
+    <text font-family="Georgia, Cambria, Times New Roman, serif" font-size="40" font-weight="700" fill="#0F172A" x="104" y="78"><tspan x="104" dy="0">Content repurposing across channels (variant</tspan><tspan x="104" dy="51.2">3): essentials · v3</tspan></text>
+    <text x="1168" y="78" text-anchor="end" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#64748B">infographic</text>
+    <rect x="32" y="156" width="552" height="444" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+    <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#0F172A" x="56" y="196"><tspan x="56" dy="0">Original structured copy for marketing: Content</tspan><tspan x="56" dy="23">repurposing across channels (variant 3).</tspan><tspan x="56" dy="23">Illustrative metrics are labeled when used.</tspan></text>
+    <g transform="translate(616, 156)">
+      
+        <rect y="0" width="552" height="96" rx="6" fill="#F1F5F9" stroke="#0F172A" stroke-width="2" />
+        <text x="20" y="38" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#0F172A">1</text>
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#0F172A" x="48" y="38"><tspan x="48" dy="0">Anchor the story in channel mix</tspan></text>
+      
+        <rect y="108" width="552" height="96" rx="6" fill="#F1F5F9" stroke="#0F172A" stroke-width="2" />
+        <text x="20" y="146" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#0F172A">2</text>
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#0F172A" x="48" y="146"><tspan x="48" dy="0">Translate content repurposing across channels</tspan><tspan x="48" dy="23">(variant 3) into brand trust</tspan></text>
+      
+        <rect y="216" width="552" height="96" rx="6" fill="#F1F5F9" stroke="#0F172A" stroke-width="2" />
+        <text x="20" y="254" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#0F172A">3</text>
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#0F172A" x="48" y="254"><tspan x="48" dy="0">Measure progress via audience insight</tspan></text>
+      
+        <rect y="324" width="552" height="96" rx="6" fill="#F1F5F9" stroke="#0F172A" stroke-width="2" />
+        <text x="20" y="362" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#0F172A">4</text>
+        <text font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" fill="#0F172A" x="48" y="362"><tspan x="48" dy="0">Align energetic messaging with marketers</tspan></text>
+      
+    </g>
+  
+</svg>

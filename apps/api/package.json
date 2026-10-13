@@ -1,0 +1,45 @@
+{
+  "name": "@vector-forge/api",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "dev": "tsx watch src/index.ts",
+    "start": "node dist/index.js",
+    "batch": "tsx src/cli/batch.ts",
+    "generate:one": "tsx src/cli/generate-one.ts",
+    "validate:outputs": "tsx src/cli/validate-outputs.ts",
+    "previews": "tsx src/cli/previews.ts",
+    "ai:probe": "tsx src/cli/ai-probe.ts",
+    "reconcile:assessment": "tsx src/cli/reconcile-assessment.ts",
+    "batch:smoke": "tsx src/cli/batch-smoke.ts",
+    "batch:verify": "tsx src/cli/batch-verify.ts",
+    "coverage:report": "tsx src/cli/coverage-report.ts",
+    "reports:sync": "tsx src/cli/sync-reports.ts",
+    "pre-regen-backup": "tsx src/cli/pre-regen-backup.ts",
+    "assessment:audit": "tsx src/cli/assessment-audit.ts",
+    "controlled:targeted": "tsx src/cli/controlled-targeted-tests.ts",
+    "controlled:quality": "tsx src/cli/controlled-quality-tests.ts",
+    "diagnostic:phase-e-truncation": "tsx src/cli/phase-e-truncation-diagnostic.ts",
+    "repair:phase-e-staging": "tsx src/cli/phase-e-staging-repair.ts"
+  },
+  "dependencies": {
+    "@vector-forge/ai": "1.0.0",
+    "@vector-forge/shared": "1.0.0",
+    "@vector-forge/svg-engine": "1.0.0",
+    "@vector-forge/validation": "1.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/supertest": "^6.0.2",
+    "supertest": "^7.0.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}

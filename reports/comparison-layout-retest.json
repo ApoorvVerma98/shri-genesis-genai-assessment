@@ -1,0 +1,23 @@
+{
+  "purpose": "comparison-layout-preflight-retest",
+  "batchRunId": "mv5fy7un",
+  "aiSuccess": 2,
+  "total": 2,
+  "entries": [
+    {
+      "id": "vf-mv5fy7un-0001",
+      "contentMode": "ai",
+      "aiAttempted": true,
+      "headline": "Unlock Sustainable Expansion with Community-Driven Growth Loops",
+      "hasComparisonBrief": true
+    },
+    {
+      "id": "vf-mv5fy7un-0002",
+      "contentMode": "ai",
+      "aiAttempted": true,
+      "headline": "Turn One Piece of Content into a Multichannel Powerhouse",
+      "hasComparisonBrief": true
+    }
+  ],
+  "completedAt": "2026-10-12T16:03:08.198Z"
+}
