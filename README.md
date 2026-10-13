@@ -1,8 +1,22 @@
 # VectorForge
 
-AI-powered SVG banner and infographic generation engine (technical assessment project).
+**VectorForge** is an AI-powered SVG banner and infographic generation engine that transforms structured briefs into vector designs using LLM-generated content or an explicit deterministic fallback. It combines layout-aware SVG rendering, validation, manifest tracking, and a React Assessment Studio for generation, gallery browsing, and quality review.
 
-Generate ~100 original vector designs across categories and layout families, with validation, manifests, previews, and an optional React studio.
+Built for the Shri Genesis Gen AI Creative Developer assessment.
+
+## Content provenance
+
+Every generated entry records **`contentMode`** in the manifest and UI:
+
+| Mode | Meaning |
+|------|---------|
+| **`ai`** | Copy came from the configured LLM provider for that run. |
+| **`fallback`** | Deterministic structured copy when AI is off or fails—**not** AI-generated. |
+| **`unknown`** | Per-entry AI vs fallback could not be resolved (see canonical note below). |
+
+The **canonical assessment collection** (`vf-0001`…`vf-0100` in `outputs/assessment/manifest.json`) ships with the repo for review. **All 100 canonical entries currently have `contentMode: "unknown"`.** Their individual AI-versus-fallback provenance could not be established during manifest reconciliation, and aggregate batch metrics in `reports/` are not assigned to individual IDs. New runs and single-design generation label `ai` versus `fallback` when the pipeline can establish the generation path.
+
+Phase 1 baseline **reports** (all fallback in that snapshot) live under `reports/baseline-phase1/`. A separate `outputs-phase1-archive/` folder is **gitignored** and may exist only on a local machine—it is **not** part of a fresh clone from GitHub.
 
 ## Features
 
@@ -34,7 +48,8 @@ reports/          Technical + execution reports
 ## Installation
 
 ```bash
-cd "E:\svg-generation assesment"
+git clone https://github.com/ApoorvVerma98/shri-genesis-genai-assessment.git
+cd shri-genesis-genai-assessment
 npm install
 npm run build
 ```
@@ -42,8 +57,10 @@ npm run build
 Copy environment template into the **repository root** (not `apps/api/`):
 
 ```bash
-copy .env.example .env
+cp .env.example .env
 ```
+
+On Windows (Command Prompt): `copy .env.example .env`
 
 CLI and API load `.env` from the monorepo root (`vector-forge` `package.json`), even when npm workspace scripts run with `cwd` set to `apps/api`. Existing shell environment variables take precedence over `.env` (conflicts are listed when `VF_ENV_DEBUG=1`).
 
@@ -99,8 +116,6 @@ Total per request: 1–200 designs. If `count` is sent with `segments`, it must 
 | Pre-regen backup (before Phase E) | `npm run pre-regen-backup` |
 | Assessment traceability audit | `npm run assessment:audit` |
 
-Phase 1 baseline is archived under `reports/baseline-phase1/` and `outputs-phase1-archive/`.
-
 ## Outputs
 
 - SVGs: `outputs/<category>/<id>.svg`
@@ -108,15 +123,17 @@ Phase 1 baseline is archived under `reports/baseline-phase1/` and `outputs-phase
 - Targeted run manifests: `outputs/runs/<batchRunId>/manifest.json`
 - Previews: `outputs/previews/contact-sheet.html`
 - Reports: `reports/technical-report.md`, `reports/execution-report.json`
+- Phase 1 baseline (reports + manifest snapshot): `reports/baseline-phase1/`
 
 ## Known limitations
 
 - Fallback mode is not AI-generated content.
 - Text wrapping is heuristic.
 - Visual overlap detection is not geometric.
+- Canonical per-entry provenance may be `unknown` until a full regen with consistent manifest metadata.
 
 ## Troubleshooting
 
 - **AI errors**: Confirm `.env` provider settings; failures fall back with `contentMode: fallback`.
-- **Empty gallery**: Run `npm run batch` before opening the UI.
+- **Empty gallery**: Ensure `outputs/assessment/manifest.json` and referenced SVGs exist (they are tracked in this repo); otherwise run `npm run batch` or restore from your backup.
 - **Port conflicts**: Set `API_PORT` in `.env`.
